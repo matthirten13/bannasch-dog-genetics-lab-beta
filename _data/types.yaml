@@ -38,6 +38,11 @@ website:
   text: Website
   tooltip: Website
 
+faculty-website:
+  icon: fa-solid fa-globe
+  text: Faculty Website
+  tooltip: Website
+
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
