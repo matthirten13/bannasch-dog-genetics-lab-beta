@@ -5,6 +5,6 @@
 
   # matthirten13's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[matthirten13.github.io/bannasch-dog-genetics-lab-beta](https://matthirten13.github.io/bannasch-dog-genetics-lab-beta)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
