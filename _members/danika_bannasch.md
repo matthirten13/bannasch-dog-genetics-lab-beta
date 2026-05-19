@@ -8,7 +8,7 @@ aliases:
   - DL Bannasch
   - D Bannasch
 links:
-  faculty-page: https://www.vetmed.ucdavis.edu/faculty/danika-bannasch
+  faculty-website: https://www.vetmed.ucdavis.edu/faculty/danika-bannasch
   orcid: 0000-0001-8713-9213
 ---
 
