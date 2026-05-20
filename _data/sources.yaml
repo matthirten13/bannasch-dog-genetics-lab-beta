@@ -2,5 +2,25 @@
   type: paper
   description: A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis in a Litter of Mixed-Breed Dogs
   date: 2026-12-4
-
-
+- id: issn:00166731
+  remove: true
+- id: issn:14656914
+  remove: true
+- id: wosuid:WOS:000227882600002
+  remove: true
+  - id: wosuid:WOS:000274725700006
+  remove: true
+  - id: wosuid:WOS:000251613400017
+  remove: true
+  - id: issn:16765680
+  remove: true
+  - id: wosuid:WOS:000277416600126
+  remove: true
+  - id: wosuid:WOS:000356676200010
+  remove: true
+  - id: wosuid:WOS:000362882206150
+  remove: true
+  - id: wosuid:WOS:000370860204571
+  remove: true
+  - id: wosuid:WOS:000402766800087
+  remove: true
