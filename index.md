@@ -1,9 +1,9 @@
 ---
 ---
 
-# matthirten13's Website
+# Danika Bannasch Genetics Lab
 
-An engaging 1-3 sentence description of your lab.
+A dog and horse genetics laboratory located at the Weill School of Veterinary Medicine, UC Davis. We study variants leading to disease and look at the impact of LINE-1 retrotransposons on cancer development.
 
 {% include section.html %}
 
