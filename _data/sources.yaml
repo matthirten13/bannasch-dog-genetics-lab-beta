@@ -8,19 +8,19 @@
   remove: true
 - id: wosuid:WOS:000227882600002
   remove: true
-  - id: wosuid:WOS:000274725700006
+- id: wosuid:WOS:000274725700006
   remove: true
-  - id: wosuid:WOS:000251613400017
+- id: wosuid:WOS:000251613400017
   remove: true
-  - id: issn:16765680
+- id: issn:16765680
   remove: true
-  - id: wosuid:WOS:000277416600126
+- id: wosuid:WOS:000277416600126
   remove: true
-  - id: wosuid:WOS:000356676200010
+- id: wosuid:WOS:000356676200010
   remove: true
-  - id: wosuid:WOS:000362882206150
+- id: wosuid:WOS:000362882206150
   remove: true
-  - id: wosuid:WOS:000370860204571
+- id: wosuid:WOS:000370860204571
   remove: true
-  - id: wosuid:WOS:000402766800087
+- id: wosuid:WOS:000402766800087
   remove: true
