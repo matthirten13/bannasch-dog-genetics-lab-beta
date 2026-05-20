@@ -14,6 +14,7 @@
   date: '2026-01-26'
   link: https://doi.org/hb43n7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.11.12.687631
@@ -47,6 +48,7 @@
   date: '2025-11-14'
   link: https://doi.org/hb43n8
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-025-10123-1
@@ -64,6 +66,7 @@
   date: '2025-03-25'
   link: https://doi.org/hb43n9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jvim.16925
@@ -88,6 +91,7 @@
   date: '2024-01-01'
   link: https://doi.org/hb43pb
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-023-46601-2
@@ -109,6 +113,7 @@
   date: '2023-11-04'
   link: https://doi.org/hb43pc
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0286861
@@ -126,6 +131,7 @@
   date: '2023-06-08'
   link: https://doi.org/g63zp3
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/AJVR.23.03.0056
@@ -139,6 +145,7 @@
   date: '2023-04-10'
   link: https://doi.org/hb43pd
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/AJVR.22.09.0165
@@ -152,6 +159,7 @@
   date: '2023-02-07'
   link: https://doi.org/hb43pf
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1146/ANNUREV-ANIMAL-050622-055534
@@ -164,6 +172,7 @@
   date: '2023-02-15'
   link: https://doi.org/hb43pg
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/g3journal/jkac227
@@ -179,6 +188,7 @@
   date: '2022-09-01'
   link: https://doi.org/hb43ph
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.276828.122
@@ -196,6 +206,7 @@
   date: '2022-08-01'
   link: https://doi.org/hb43pj
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes13071223
@@ -217,6 +228,7 @@
   date: '2022-07-09'
   link: https://doi.org/hb43pk
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes13020325
@@ -236,6 +248,7 @@
   date: '2022-02-10'
   link: https://doi.org/hb43pm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/AJVR.22.07.0106
@@ -262,6 +275,7 @@
   date: '2022-11-01'
   link: https://doi.org/g6f7fr
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/S41598-022-23238-1
@@ -284,6 +298,7 @@
   date: '2022-11-08'
   link: https://doi.org/hb43pn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s40575-021-00111-4
@@ -302,6 +317,7 @@
   date: '2021-12-02'
   link: https://doi.org/gnrtx2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00439-021-02261-8
@@ -319,6 +335,7 @@
   date: '2021-02-18'
   link: https://doi.org/hb43pp
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41559-021-01524-x
@@ -383,6 +400,7 @@
   date: '2021-08-12'
   link: https://doi.org/gmg8d9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes12030357
@@ -400,6 +418,7 @@
   date: '2021-03-01'
   link: https://doi.org/hb43pq
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes12010068
@@ -411,6 +430,7 @@
   date: '2021-01-07'
   link: https://doi.org/hb43pr
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/age.13117
@@ -426,6 +446,7 @@
   date: '2021-07-12'
   link: https://doi.org/hb43ps
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12711-021-00633-2
@@ -459,6 +480,7 @@
   date: '2021-04-28'
   link: https://doi.org/hb43pt
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.12.21.423812
@@ -484,6 +506,7 @@
   date: '2020-12-21'
   link: https://doi.org/ghqqvs
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11091033
@@ -516,6 +539,7 @@
   date: '2020-09-02'
   link: https://doi.org/hb43pv
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11080839
@@ -534,6 +558,7 @@
   date: '2020-07-23'
   link: https://doi.org/hb43pw
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11060636
@@ -552,6 +577,7 @@
   date: '2020-06-09'
   link: https://doi.org/ghfgwm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11050481
@@ -571,6 +597,7 @@
   date: '2020-04-28'
   link: https://doi.org/hb43px
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11020159
@@ -602,6 +629,7 @@
   date: '2020-02-03'
   link: https://doi.org/ghfgnb
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11010075
@@ -619,6 +647,7 @@
   date: '2020-01-09'
   link: https://doi.org/gqfv5d
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1008659
@@ -640,6 +669,7 @@
   date: '2020-03-09'
   link: https://doi.org/ghfgd2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/vde.12831
@@ -656,6 +686,7 @@
   date: '2020-01-06'
   link: https://doi.org/hb43pz
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fvets.2020.00431
@@ -667,6 +698,7 @@
   date: '2020-07-24'
   link: https://doi.org/g59bpv
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tig.2020.05.005
@@ -679,6 +711,7 @@
   date: '2020-08-01'
   link: https://doi.org/hb43p2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1177/1040638720929637
@@ -691,6 +724,7 @@
   date: '2020-06-09'
   link: https://doi.org/hb43p3
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cels.2020.06.006
@@ -713,6 +747,7 @@
   date: '2020-08-01'
   link: https://doi.org/gg3z2z
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-020-63451-4
@@ -736,6 +771,7 @@
   date: '2020-04-16'
   link: https://doi.org/ghfghm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/vop.12646
@@ -754,6 +790,7 @@
   date: '2019-02-21'
   link: https://doi.org/hb43p4
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1008378
@@ -778,6 +815,7 @@
   date: '2019-09-03'
   link: https://doi.org/ghfghj
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/age.12834
@@ -791,6 +829,7 @@
   date: '2019-09-05'
   link: https://doi.org/gsccrw
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1177/0300985819868731
@@ -808,6 +847,7 @@
   date: '2019-09-16'
   link: https://doi.org/hb43p5
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes10060435
@@ -830,6 +870,7 @@
   date: '2019-06-07'
   link: https://doi.org/hb43p6
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/829192
@@ -852,6 +893,7 @@
   date: '2019-11-04'
   link: https://doi.org/dftv
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0192578
@@ -867,6 +909,7 @@
   date: '2018-02-06'
   link: https://doi.org/gcxjv7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/g3.118.200376
@@ -887,6 +930,7 @@
   date: '2018-08-01'
   link: https://doi.org/ghfgpv
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-018-23938-7
@@ -925,6 +969,7 @@
   date: '2018-04-11'
   link: https://doi.org/gdd9wm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jnen/nly020
@@ -940,6 +985,7 @@
   date: '2018-03-14'
   link: https://doi.org/hb43p7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/JOURNAL.PONE.0195924
@@ -958,6 +1004,7 @@
   date: '2018-04-10'
   link: https://doi.org/hb43p8
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esx074
@@ -974,6 +1021,7 @@
   date: '2017-09-19'
   link: https://doi.org/gdd5jc
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1007850
@@ -1002,6 +1050,7 @@
   date: '2018-12-06'
   link: https://doi.org/ghfgwc
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1709082114
@@ -1026,6 +1075,7 @@
   date: '2017-10-11'
   link: https://doi.org/gchjb2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/vop.12488
@@ -1041,6 +1091,7 @@
   date: '2017-07-12'
   link: https://doi.org/gc7djh
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.nmd.2017.01.020
@@ -1059,6 +1110,7 @@
   date: '2017-05-01'
   link: https://doi.org/f98s55
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000402766800087
@@ -1068,6 +1120,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000402766800087
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12864-017-3943-8
@@ -1112,6 +1165,7 @@
   date: '2017-07-27'
   link: https://doi.org/gjcnz7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/112979
@@ -1157,6 +1211,7 @@
   date: '2017-03-02'
   link: https://doi.org/gkv5x7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12917-017-0958-y
@@ -1174,6 +1229,7 @@
   date: '2016-12-01'
   link: https://doi.org/hb43p9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/144022
@@ -1198,6 +1254,7 @@
   date: '2017-05-30'
   link: https://doi.org/gkvrqf
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.vetimm.2016.08.003
@@ -1218,6 +1275,7 @@
   date: '2016-10-01'
   link: https://doi.org/ggj5qz
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jnen/nlw042
@@ -1234,6 +1292,7 @@
   date: '2016-05-31'
   link: https://doi.org/hb43qb
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2527/JAS2016.94SUPPLEMENT4106A
@@ -1253,6 +1312,7 @@
   date: '2016-09-01'
   link: https://doi.org/hb43qc
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12917-016-0911-5
@@ -1268,6 +1328,7 @@
   date: '2016-12-01'
   link: https://doi.org/f9d583
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.freeradbiomed.2016.10.009
@@ -1289,6 +1350,7 @@
   date: '2016-12-01'
   link: https://doi.org/f9hvm2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1006000
@@ -1317,6 +1379,7 @@
   date: '2016-05-12'
   link: https://doi.org/f3rj6q
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jvim.13618
@@ -1335,6 +1398,7 @@
   date: '2015-11-01'
   link: https://doi.org/hb43qd
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000370860204571
@@ -1344,6 +1408,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000370860204571
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000362882206150
@@ -1353,6 +1418,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000362882206150
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0133127
@@ -1371,6 +1437,7 @@
   date: '2015-08-05'
   link: https://doi.org/f72nm3
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1005442
@@ -1393,6 +1460,7 @@
   date: '2015-08-04'
   link: https://doi.org/f7q56c
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1005059
@@ -1423,6 +1491,7 @@
   date: '2015-03-23'
   link: https://doi.org/f68c84
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1005122
@@ -1440,6 +1509,7 @@
   date: '2015-04-13'
   link: https://doi.org/f7c4vp
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esu075
@@ -1455,6 +1525,7 @@
   date: '2014-11-26'
   link: https://doi.org/f66qc7
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000356676200010
@@ -1464,6 +1535,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000356676200010
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esv029
@@ -1479,6 +1551,7 @@
   date: '2015-01-01'
   link: https://doi.org/hb43qf
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/bpa.12188
@@ -1498,6 +1571,7 @@
   date: '2014-10-29'
   link: https://doi.org/hb43qg
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/evj.12294
@@ -1509,6 +1583,7 @@
   date: '2014-06-25'
   link: https://doi.org/f6dc2w
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1004257
@@ -1532,6 +1607,7 @@
   date: '2014-04-03'
   link: https://doi.org/f5389w
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/glia.22582
@@ -1554,6 +1630,7 @@
   date: '2013-11-23'
   link: https://doi.org/ghfgvr
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tvjl.2014.09.013
@@ -1569,6 +1646,7 @@
   date: '2014-12-01'
   link: https://doi.org/hb43qh
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/javma.242.9.1260
@@ -1588,6 +1666,7 @@
   date: '2013-05-01'
   link: https://doi.org/f58d33
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0054997
@@ -1635,6 +1714,7 @@
   date: '2013-01-30'
   link: https://doi.org/f229jr
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1003211
@@ -1685,6 +1765,7 @@
   date: '2013-01-17'
   link: https://doi.org/f224c4
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0057195
@@ -1711,6 +1792,7 @@
   date: '2013-03-04'
   link: https://doi.org/f4pg6b
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1003646
@@ -1732,6 +1814,7 @@
   date: '2013-07-18'
   link: https://doi.org/gbdgq4
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jvim.12015
@@ -1749,6 +1832,7 @@
   date: '2013-01-01'
   link: https://doi.org/f4ndwz
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/javma.242.11.1549
@@ -1764,6 +1848,7 @@
   date: '2013-06-01'
   link: https://doi.org/hb43qj
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ajhb.22308
@@ -1776,6 +1861,7 @@
   date: '2012-07-25'
   link: https://doi.org/hb43qk
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1002451
@@ -1808,6 +1894,7 @@
   date: '2012-01-12'
   link: https://doi.org/fzcbn8
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1159/000334566
@@ -1827,6 +1914,7 @@
   date: '2012-01-01'
   link: https://doi.org/fx55j4
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1463-5224.2012.00997.x
@@ -1844,6 +1932,7 @@
   date: '2012-03-20'
   link: https://doi.org/f382wk
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1939-1676.2011.00817.x
@@ -1861,6 +1950,7 @@
   date: '2011-11-01'
   link: https://doi.org/bzhc9s
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tvjl.2009.10.012
@@ -1875,6 +1965,7 @@
   date: '2011-02-01'
   link: https://doi.org/dr384c
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tvjl.2011.06.023
@@ -1893,6 +1984,7 @@
   date: '2011-08-01'
   link: https://doi.org/ff9km8
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1002316
@@ -1925,6 +2017,7 @@
   date: '2011-10-13'
   link: https://doi.org/dn77x8
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0028496
@@ -1943,6 +2036,7 @@
   date: '2011-12-14'
   link: https://doi.org/d62zmq
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000277416600126
@@ -1952,6 +2046,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000277416600126
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1399-0039.2010.01440.x
@@ -1967,6 +2062,7 @@
   date: '2010-01-28'
   link: https://doi.org/b6pmhg
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1939-1676.2010.0631.x
@@ -1984,6 +2080,7 @@
   date: '2010-11-01'
   link: https://doi.org/ff5scn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature08837
@@ -2030,6 +2127,7 @@
   date: '2010-03-17'
   link: https://doi.org/dn9f2q
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng.525
@@ -2052,6 +2150,7 @@
   date: '2010-01-31'
   link: https://doi.org/d77hq9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1939-1676.2010.0600.x
@@ -2062,6 +2161,7 @@
   date: '2010-11-01'
   link: https://doi.org/d3btc6
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0009632
@@ -2082,6 +2182,7 @@
   date: '2010-03-10'
   link: https://doi.org/ftr8gn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/ajvr.71.11.1257
@@ -2091,6 +2192,7 @@
   date: '2010-11-01'
   link: https://doi.org/dhvsmg
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/ajvr.71.8.909
@@ -2105,6 +2207,7 @@
   date: '2010-08-01'
   link: https://doi.org/b87xx9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cvsm.2008.09.006
@@ -2116,6 +2219,7 @@
   date: '2009-01-01'
   link: https://doi.org/dmvbxn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/javma.234.1.120
@@ -2137,6 +2241,7 @@
   date: '2009-01-01'
   link: https://doi.org/chc8p5
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jevs.2008.10.004
@@ -2147,6 +2252,7 @@
   date: '2008-11-01'
   link: https://doi.org/dtwdvn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2156-9-67
@@ -2163,6 +2269,7 @@
   date: '2008-10-21'
   link: https://doi.org/cmpc74
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/molbev/msn082
@@ -2177,6 +2284,7 @@
   date: '2008-04-03'
   link: https://doi.org/b4x7vh
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1000246
@@ -2193,6 +2301,7 @@
   date: '2008-11-07'
   link: https://doi.org/b644th
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/10495390701638328
@@ -2205,6 +2314,7 @@
   date: '2008-01-18'
   link: https://doi.org/ftdt64
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:16765680
@@ -2214,6 +2324,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/16765680
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000251613400017
@@ -2223,6 +2334,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000251613400017
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-3164.2007.00562.x
@@ -2242,6 +2354,7 @@
   date: '2007-01-03'
   link: https://doi.org/dskb3b
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/javma.231.3.407
@@ -2256,6 +2369,7 @@
   date: '2007-08-01'
   link: https://doi.org/cvjmwd
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tvjl.2006.05.023
@@ -2272,6 +2386,7 @@
   date: '2007-09-01'
   link: https://doi.org/b336pd
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ygeno.2007.03.009
@@ -2285,6 +2400,7 @@
   date: '2007-07-01'
   link: https://doi.org/b56z2j
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tvjl.2005.11.008
@@ -2302,6 +2418,7 @@
   date: '2007-03-01'
   link: https://doi.org/fwvqgg
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-005-0163-3
@@ -2315,6 +2432,7 @@
   date: '2006-07-01'
   link: https://doi.org/dd85hm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/J.1476-5829.2006.00112.X
@@ -2334,6 +2452,7 @@
   date: '2006-11-16'
   link: https://doi.org/cpjmk9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-005-0137-5
@@ -2347,6 +2466,7 @@
   date: '2006-04-01'
   link: https://doi.org/bmnncb
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000274725700006
@@ -2356,6 +2476,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000274725700006
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cvsm.2005.12.004
@@ -2367,6 +2488,7 @@
   date: '2006-05-01'
   link: https://doi.org/dxwqx9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00335-004-2435-8
@@ -2381,6 +2503,7 @@
   date: '2005-04-01'
   link: https://doi.org/dsv89q
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/10425170500136822
@@ -2395,6 +2518,7 @@
   date: '2005-01-01'
   link: https://doi.org/b4r796
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esi068
@@ -2406,6 +2530,7 @@
   date: '2005-10-26'
   link: https://doi.org/dzc6ns
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esi078
@@ -2417,6 +2542,7 @@
   date: '2005-10-26'
   link: https://doi.org/ff4hwq
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-05-0642
@@ -2449,6 +2575,7 @@
   date: '2005-09-01'
   link: https://doi.org/hb43qm
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/ajvr.2005.66.437
@@ -2464,6 +2591,7 @@
   date: '2005-03-01'
   link: https://doi.org/d84n57
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000227882600002
@@ -2473,6 +2601,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000227882600002
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1892/0891-6640(2005)19<143:QIODA>2.0.CO;2
@@ -2482,6 +2611,7 @@
   date: '2005-01-01'
   link: https://doi.org/brm6tj
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-2052.2004.01154.x
@@ -2498,6 +2628,7 @@
   date: '2004-06-17'
   link: https://doi.org/fk7kwh
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-3164.2004.00402.x
@@ -2527,6 +2658,7 @@
   date: '2004-08-01'
   link: https://doi.org/dv62n9
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2460/ajvr.2004.65.344
@@ -2542,6 +2674,7 @@
   date: '2004-03-01'
   link: https://doi.org/cd4sr2
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1892/0891-6640(2004)18<483:IOUCIT>2.0.CO;2
@@ -2555,6 +2688,7 @@
   date: '2004-07-01'
   link: https://doi.org/dd58st
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0195-5616(01)50214-4
@@ -2565,6 +2699,7 @@
   date: '2001-03-01'
   link: https://doi.org/hb43qn
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:14656914
@@ -2574,6 +2709,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/14656914
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s003350010005
@@ -2591,6 +2727,7 @@
   date: '2000-01-01'
   link: https://doi.org/b4btxz
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s003359900790
@@ -2603,6 +2740,7 @@
   date: '1998-06-01'
   link: https://doi.org/bgfc5m
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:00166731
@@ -2612,6 +2750,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/00166731
   orcid: 0000-0002-7614-7207
+  danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
