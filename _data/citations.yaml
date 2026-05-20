@@ -1116,16 +1116,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000402766800087
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000402766800087
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s12864-017-3943-8
   title: Developing a 670k genotyping array to tag ~2M SNPs across 24 horse breeds
   authors:
@@ -1404,26 +1394,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000370860204571
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000370860204571
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000362882206150
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000362882206150
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0133127
   title: DNA Sequence Variants in the Five Prime Untranslated Region of the Cyclooxygenase-2
     Gene Are Commonly Found in Healthy Dogs and Gray Wolves
@@ -1527,16 +1497,6 @@
   publisher: Journal of Heredity
   date: '2014-11-26'
   link: https://doi.org/f66qc7
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000356676200010
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000356676200010
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
   plugin: orcid.py
@@ -2042,16 +2002,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000277416600126
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000277416600126
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/j.1399-0039.2010.01440.x
   title: Association of a dog leukocyte antigen class II haplotype with hypoadrenocorticism
     in Nova Scotia Duck Tolling Retrievers
@@ -2320,26 +2270,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:16765680
-  title: ISSN 1676-5680 - Genetics and Molecular Research
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/16765680
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000251613400017
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000251613400017
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/j.1365-3164.2007.00562.x
   title: "Clinical and pathological findings in a HERDA\u2010affected foal for 1.5\_\
     years of life"
@@ -2472,16 +2402,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000274725700006
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000274725700006
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.cvsm.2005.12.004
   title: Recent Advances in Small Animal Genetics
   authors:
@@ -2597,16 +2517,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000227882600002
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000227882600002
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1892/0891-6640(2005)19<143:QIODA>2.0.CO;2
   title: Questionable Incidence of Dalmatian Urolithiasis
   authors: []
@@ -2705,16 +2615,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: issn:14656914
-  title: ISSN 1465-6914 - GenomeBiology.com (London. Online)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/14656914
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s003350010005
   title: Melanocortin 1 receptor variation in the domestic dog
   authors:
@@ -2742,16 +2642,6 @@
   publisher: Mammalian Genome
   date: '1998-06-01'
   link: https://doi.org/bgfc5m
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:00166731
-  title: ISSN 0016-6731 - Genetics (Austin, Tex.)
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/00166731
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
   plugin: orcid.py
