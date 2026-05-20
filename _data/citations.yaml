@@ -1,209 +1,2617 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/genes17020131
+  title: A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis
+    in a Litter of Mixed-Breed Dogs
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Scarlett Varney
+  - Karen Vernau
+  - Craig Brown
+  - Christine Toedebusch
+  - Julia Vo
+  - Danika Bannasch
+  publisher: Genes
+  date: '2026-01-26'
+  link: https://doi.org/hb43n7
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.11.12.687631
+  title: Reproducibility of the evaluation of genetic variant pathogenicity based
+    on the animal variant classification guidelines
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Iris Casselman
+  - Carlotta Ferrari
+  - Marie Abitbol
+  - Danika Bannasch
+  - Jerold Bell
+  - Caroline Dufaure de Citres
+  - Carrie J. Finno
+  - Jessica J. Hayward
+  - "Jens H\xE4ggstr\xF6m"
+  - Jason T. Huff
+  - Tosso Leeb
+  - Ingrid Ljungvall
+  - Maria Longeri
+  - Leslie A. Lyons
+  - Marcela Martinez
+  - Cathryn Mellersh
+  - Frank W. Nicholas
+  - "\xC5sa Ohlsson"
+  - Pascale Smets
+  - Maria G. Strillacci
+  - Imke Tammen
+  - Frank G. van Steenbeek
+  - Bart J.G. Broeckx
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-11-14'
+  link: https://doi.org/hb43n8
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1007/s00335-025-10123-1
+  title: The RSPO2 gene is associated with bilateral anterior amelia in Chihuahuas
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Lucie Chevallier
+  - Marin Green
+  - Julia Vo
+  - Karen Vernau
+  - Denis J. Marcellin-Little
+  - Vidhya Jagannathan
+  - Tosso Leeb
+  - Danika Bannasch
+  publisher: Mammalian Genome
+  date: '2025-03-25'
+  link: https://doi.org/hb43n9
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1111/jvim.16925
+  title: "Association of the\n                    <i>FGF4L2</i>\n                \
+    \    retrogene with fibrocartilaginous embolic myelopathy in dogs"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Colleen Embersics
+  - Danika Bannasch
+  - Kevin Batcher
+  - Elizabeth C. Boudreau
+  - Molly Church
+  - Andrew Miller
+  - Simon Platt
+  - Jey Koehler
+  - Natasha Olby
+  - John Rossmeisl
+  - Daniel Rissi
+  - Robert Grahn
+  - Jonas Donner
+  - Peter J. Dickinson
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2024-01-01'
+  link: https://doi.org/hb43pb
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-46601-2
+  title: Naturally occurring canine laminopathy leading to a dilated and fibrosing
+    cardiomyopathy in the Nova Scotia Duck Tolling Retriever
+  authors:
+  - Danika L. Bannasch
+  - Danielle T. Oertle
+  - Julia Vo
+  - Kevin L. Batcher
+  - Joshua A. Stern
+  - Joanna L. Kaplan
+  - Ronald H. L. Li
+  - Indiana E. Madden
+  - Matthias Christen
+  - Tosso Leeb
+  - Nikhil Joshi
+  publisher: Scientific Reports
+  date: '2023-11-04'
+  link: https://doi.org/hb43pc
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0286861
+  title: Ancient segmentally duplicated LCORL retrocopies in equids
+  authors:
+  - Kevin Batcher
+  - Scarlett Varney
+  - Terje Raudsepp
+  - Matthew Jevit
+  - Peter Dickinson
+  - Vidhya Jagannathan
+  - Tosso Leeb
+  - Danika Bannasch
+  publisher: PLOS ONE
+  date: '2023-06-08'
+  link: https://doi.org/g63zp3
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/AJVR.23.03.0056
+  title: Driving health innovation at the University of California-Davis School of
+    Veterinary Medicine
+  authors:
+  - Mark Stetter
+  - Danika Bannasch
+  - Tom Hinds
+  publisher: American Journal of Veterinary Research
+  date: '2023-04-10'
+  link: https://doi.org/hb43pd
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/AJVR.22.09.0165
+  title: Quantitative assessment of hip morphology to enhance the identification of
+    hip dysplasia in German Shepherd Dogs
+  authors:
+  - Ayman A. Mostafa
+  - Clifford R. Berry
+  - Menna A. Nahla
+  publisher: American Journal of Veterinary Research
+  date: '2023-02-07'
+  link: https://doi.org/hb43pf
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1146/ANNUREV-ANIMAL-050622-055534
+  title: Identification of Genetic Risk Factors for Monogenic and Complex Canine Diseases
+  authors:
+  - Tosso Leeb
+  - Danika Bannasch
+  - Jeffrey J. Schoenebeck
+  publisher: Annual Review of Animal Biosciences
+  date: '2023-02-15'
+  link: https://doi.org/hb43pg
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/g3journal/jkac227
+  title: An SNN retrocopy insertion upstream of<i>GPR22</i>is associated with dark
+    red coat color in Poodles
+  authors:
+  - Kevin Batcher
+  - Scarlett Varney
+  - Verena K Affolter
+  - Steven G Friedenberg
+  - Danika Bannasch
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2022-09-01'
+  link: https://doi.org/hb43ph
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.276828.122
+  title: Recent, full-length gene retrocopies are common in canids
+  authors:
+  - Kevin Batcher
+  - Scarlett Varney
+  - Daniel York
+  - Matthew Blacksmith
+  - Jeffrey M. Kidd
+  - Robert Rebhun
+  - Peter Dickinson
+  - Danika Bannasch
+  publisher: Genome Research
+  date: '2022-08-01'
+  link: https://doi.org/hb43pj
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes13071223
+  title: "SLC25A12 Missense Variant in Nova Scotia Duck Tolling Retrievers Affected\
+    \ by Cerebellar Degeneration\u2014Myositis Complex (CDMC)"
+  authors:
+  - Matthias Christen
+  - Stefan Rupp
+  - Iris Van Soens
+  - Sofie F. M. Bhatti
+  - Kaspar Matiasek
+  - Thilo von Klopmann
+  - Vidhya Jagannathan
+  - Indiana Madden
+  - Kevin Batcher
+  - Danika Bannasch
+  - Tosso Leeb
+  publisher: Genes
+  date: '2022-07-09'
+  link: https://doi.org/hb43pk
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes13020325
+  title: The Effects of FGF4 Retrogenes on Canine Morphology
+  authors:
+  - Danika Bannasch
+  - Kevin Batcher
+  - Fabienne Leuthard
+  - Michael Bannasch
+  - Petra Hug
+  - Denis J. Marcellin-Little
+  - Peter J. Dickinson
+  - "Michaela Dr\xF6gem\xFCller"
+  - "Cord Dr\xF6gem\xFCller"
+  - Tosso Leeb
+  publisher: Genes
+  date: '2022-02-10'
+  link: https://doi.org/hb43pm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/AJVR.22.07.0106
+  title: A genome-wide association study to investigate genetic loci associated with
+    primary glaucoma in American Cocker Spaniels
+  authors:
+  - Filipe Espinheira Gomes
+  - Maria Isabel Casanova
+  - Lara Mouttham
+  - Danika L. Bannasch
+  - Sangwan Park
+  - Soohyun Kim
+  - Laura J. Young
+  - Nicole L. Daley
+  - Sara M. Thomasy
+  - Marta G. Castelhano
+  - Eric C. Ledbetter
+  - Bradford Holmberg
+  - Ryan Boyd
+  - Alexandra Van Der Woerdt
+  - Jessica McDonald
+  - Jessica J. Hayward
+  publisher: American Journal of Veterinary Research
+  date: '2022-11-01'
+  link: https://doi.org/g6f7fr
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41598-022-23238-1
+  title: Ocular morphologic traits in the American Cocker Spaniel may confer primary
+    angle closure glaucoma susceptibility
+  authors:
+  - Sangwan Park
+  - M. Isabel Casanova
+  - Danika L. Bannasch
+  - Nicole L. Daley
+  - Soohyun Kim
+  - John Kuchtey
+  - Filipe Espinheira Gomes
+  - Brian C. Leonard
+  - Kathryn L. Good
+  - Bianca da C. Martins
+  - Christopher J. Murphy
+  - Sara M. Thomasy
+  publisher: Scientific Reports
+  date: '2022-11-08'
+  link: https://doi.org/hb43pn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40575-021-00111-4
+  title: The effect of inbreeding, body size and morphology on health in dog breeds
+  authors:
+  - Danika Bannasch
+  - Thomas Famula
+  - Jonas Donner
+  - Heidi Anderson
+  - Leena Honkanen
+  - Kevin Batcher
+  - Noa Safra
+  - Sara Thomasy
+  - Robert Rebhun
+  publisher: Canine Medicine and Genetics
+  date: '2021-12-02'
+  link: https://doi.org/gnrtx2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00439-021-02261-8
+  title: Canine DVL2 variant contributes to brachycephalic phenotype and caudal vertebral
+    anomalies
+  authors:
+  - Julia E. Niskanen
+  - Vilma Reunanen
+  - Milla Salonen
+  - Danika Bannasch
+  - Anu K. Lappalainen
+  - Hannes Lohi
+  - "Marjo K. Hyt\xF6nen"
+  publisher: Human Genetics
+  date: '2021-02-18'
+  link: https://doi.org/hb43pp
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-021-01524-x
+  title: Dog colour patterns explained by modular promoters of ancient canid origin
+  authors:
+  - Danika L. Bannasch
+  - Christopher B. Kaelin
+  - Anna Letko
+  - Robert Loechel
+  - Petra Hug
+  - Vidhya Jagannathan
+  - Jan Henkel
+  - Petra Roosje
+  - "Marjo K. Hyt\xF6nen"
+  - Hannes Lohi
+  - Meharji Arumilli
+  - Hannes Lohi
+  - Juha Kere
+  - Carsten Daub
+  - "Marjo Hyt\xF6nen"
+  - "C\xE9sar L. Araujo"
+  - Ileana B. Quintero
+  - "Kaisa Ky\xF6stil\xE4"
+  - Maria Kaukonen
+  - Meharji Arumilli
+  - Milla Salonen
+  - Riika Sarviaho
+  - Julia Niskanen
+  - Sruthi Hundi
+  - Jenni Puurunen
+  - Sini Sulkama
+  - Sini Karjalainen
+  - Antti Sukura
+  - "Pernilla Syrj\xE4"
+  - Niina Airas
+  - Henna Pekkarinen
+  - Ilona Kareinen
+  - Anna Knuuttila
+  - Heli Nordgren
+  - Karoliina Hagner
+  - "Tarja P\xE4\xE4kk\xF6nen"
+  - Antti Iivanainen
+  - Kaarel Krjutskov
+  - Sini Ezer
+  - Auli Saarinen
+  - Shintaro Katayama
+  - Masahito Yoshihara
+  - "Matthias H\xF6rtenhuber"
+  - Rasha Fahad Aljelaify
+  - Fiona Ross
+  - Amitha Raman
+  - Irene Stevens
+  - Oleg Gusev
+  - Danika L. Bannasch
+  - Jeffrey J. Schoenebeck
+  - Katie M. Minor
+  - James R. Mickelson
+  - "Cord Dr\xF6gem\xFCller"
+  - Gregory S. Barsh
+  - Tosso Leeb
+  publisher: Nature Ecology &amp; Evolution
+  date: '2021-08-12'
+  link: https://doi.org/gmg8d9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes12030357
+  title: 'Correction: Weich, K., et al. Pigment Intensity in Dogs Is Associated with
+    a Copy Number Variant Upstream of KITLG. Genes 2020, 11, 75'
+  authors:
+  - Danika L. Bannasch
+  - Verena K. Affolter
+  - Daniel York
+  - Robert B. Rebhun
+  - Robert A. Grahn
+  - Kalie M. Weich
+  - Angelica Kallenberg
+  publisher: Genes
+  date: '2021-03-01'
+  link: https://doi.org/hb43pq
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes12010068
+  title: "Special Issue \u201CMolecular Basis of Inherited Diseases in Companion Animals\u201D"
+  authors:
+  - Steven G. Friedenberg
+  - Danika L. Bannasch
+  publisher: Genes
+  date: '2021-01-07'
+  link: https://doi.org/hb43pr
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.13117
+  title: "Improving the resolution of canine genome\u2010wide association studies\
+    \ using genotype imputation: A study of two breeds"
+  authors:
+  - Christopher A. Jenkins
+  - Ellen C. Schofield
+  - Cathryn S. Mellersh
+  - Luisa De Risio
+  - Sally L Ricketts
+  publisher: Animal Genetics
+  date: '2021-07-12'
+  link: https://doi.org/hb43ps
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12711-021-00633-2
+  title: Variants at the ASIP locus contribute to coat color darkening in Nellore
+    cattle
+  authors:
+  - Beatriz B. Trigo
+  - Adam T. H. Utsunomiya
+  - Alvaro A. A. D. Fortunato
+  - Marco Milanesi
+  - Rafaela B. P. Torrecilha
+  - Harrison Lamb
+  - Loan Nguyen
+  - Elizabeth M. Ross
+  - Ben Hayes
+  - "R\xF4mulo C. M. Padula"
+  - Thayla S. Sussai
+  - Ludmilla B. Zavarez
+  - Rafael S. Cipriano
+  - Maria M. T. Caminhas
+  - Flavia L. Lopes
+  - Cassiano Pelle
+  - Tosso Leeb
+  - Danika Bannasch
+  - Derek Bickhart
+  - Timothy P. L. Smith
+  - Tad S. Sonstegard
+  - "Jos\xE9 F. Garcia"
+  - Yuri T. Utsunomiya
+  publisher: Genetics Selection Evolution
+  date: '2021-04-28'
+  link: https://doi.org/hb43pt
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.21.423812
+  title: Dog color patterns explained by modular promoters of ancient canid origin
+  authors:
+  - Danika L. Bannasch
+  - Christopher B. Kaelin
+  - Anna Letko
+  - Robert Loechel
+  - Petra Hug
+  - Vidhya Jagannathan
+  - Jan Henkel
+  - Petra Roosje
+  - "Marjo K. Hyt\xF6nen"
+  - Hannes Lohi
+  - Meharji Arumilli
+  - Katie M. Minor
+  - James R. Mickelson
+  - "Cord Dr\xF6gem\xFCller"
+  - Gregory S. Barsh
+  - Tosso Leeb
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2020-12-21'
+  link: https://doi.org/ghqqvs
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/genes11091033
+  title: A Missense Variant in ALDH5A1 Associated with Canine Succinic Semialdehyde
+    Dehydrogenase Deficiency (SSADHD) in the Saluki Dog
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Karen M. Vernau
+  - Eduard Struys
+  - Anna Letko
+  - Kevin D. Woolard
+  - Miriam Aguilar
+  - Emily A. Brown
+  - Derek D. Cissell
+  - Peter J. Dickinson
+  - G. Diane Shelton
+  - Michael R. Broome
+  - K. Michael Gibson
+  - Phillip L. Pearl
+  - "Florian K\xF6nig"
+  - Thomas J. Van Winkle
+  - "Dennis O\u2019Brien"
+  - B. Roos
+  - Kaspar Matiasek
+  - Vidhya Jagannathan
+  - "Cord Dr\xF6gem\xFCller"
+  - Tamer A. Mansour
+  - C. Titus Brown
+  - Danika L. Bannasch
+  publisher: Genes
+  date: '2020-09-02'
+  link: https://doi.org/hb43pv
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/genes11080839
+  title: Multiple FGF4 Retrocopies Recently Derived within Canids
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Kevin Batcher
+  - Peter Dickinson
+  - Kimberly Maciejczyk
+  - Kristin Brzeski
+  - Sheida Hadji Rasouliha
+  - Anna Letko
+  - "Cord Dr\xF6gem\xFCller"
+  - Tosso Leeb
+  - Danika Bannasch
+  publisher: Genes
+  date: '2020-07-23'
+  link: https://doi.org/hb43pw
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11060636
+  title: Novel Brown Coat Color (Cocoa) in French Bulldogs Results from a Nonsense
+    Variant in HPS3
+  authors:
+  - Sarah Kiener
+  - Alexandra Kehl
+  - Robert Loechel
+  - Ines Langbein-Detsch
+  - "Elisabeth M\xFCller"
+  - Danika Bannasch
+  - Vidhya Jagannathan
+  - Tosso Leeb
+  publisher: Genes
+  date: '2020-06-09'
+  link: https://doi.org/ghfgwm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11050481
+  title: ATP2A2 SINE Insertion in an Irish Terrier with Darier Disease and Associated
+    Infundibular Cyst Formation
+  authors:
+  - Monika Linek
+  - Maren Doelle
+  - Tosso Leeb
+  - Anina Bauer
+  - Fabienne Leuthard
+  - Jan Henkel
+  - Danika Bannasch
+  - Vidhya Jagannathan
+  - Monika M. Welle
+  publisher: Genes
+  date: '2020-04-28'
+  link: https://doi.org/hb43px
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11020159
+  title: A Missense Variant Affecting the C-Terminal Tail of UNC93B1 in Dogs with
+    Exfoliative Cutaneous Lupus Erythematosus (ECLE)
+  authors:
+  - Tosso Leeb
+  - Fabienne Leuthard
+  - Vidhya Jagannathan
+  - Sarah Kiener
+  - Anna Letko
+  - Petra Roosje
+  - Monika Welle
+  - Katherine Gailbreath
+  - Andrea Cannon
+  - Monika Linek
+  - Frane Banovic
+  - Thierry Olivry
+  - Stephen White
+  - Kevin Batcher
+  - Danika Bannasch
+  - Katie Minor
+  - James Mickelson
+  - "Marjo Hyt\xF6nen"
+  - Hannes Lohi
+  - Elizabeth Mauldin
+  - Margret Casal
+  publisher: Genes
+  date: '2020-02-03'
+  link: https://doi.org/ghfgnb
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11010075
+  title: Pigment Intensity in Dogs is Associated with a Copy Number Variant Upstream
+    of KITLG
+  authors:
+  - Kalie Weich
+  - Verena Affolter
+  - Daniel York
+  - Robert Rebhun
+  - Robert Grahn
+  - Angelica Kallenberg
+  - Danika Bannasch
+  publisher: Genes
+  date: '2020-01-09'
+  link: https://doi.org/gqfv5d
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1008659
+  title: A putative silencer variant in a spontaneous canine model of retinitis pigmentosa
+  authors:
+  - Maria Kaukonen
+  - Ileana B. Quintero
+  - Abdul Kadir Mukarram
+  - "Marjo K. Hyt\xF6nen"
+  - Saila Holopainen
+  - "Kaisa Wickstr\xF6m"
+  - "Kaisa Ky\xF6stil\xE4"
+  - Meharji Arumilli
+  - "Sari Jalom\xE4ki"
+  - Carsten O. Daub
+  - Juha Kere
+  - Hannes Lohi
+  publisher: PLOS Genetics
+  date: '2020-03-09'
+  link: https://doi.org/ghfgd2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/vde.12831
+  title: "Chronic progressive lymphoedema in Friesian horses: suggestive phenotype\
+    \ of affected horses and genome\u2010wide association study"
+  authors:
+  - Verena K. Affolter
+  - Brittany Dalley
+  - Philip H. Kass
+  - Emily A. Brown
+  - Claudia Sonder
+  - Dannika L. Bannasch
+  publisher: Veterinary Dermatology
+  date: '2020-01-06'
+  link: https://doi.org/hb43pz
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fvets.2020.00431
+  title: Current Understanding of the Genetics of Intervertebral Disc Degeneration
+  authors:
+  - Peter J. Dickinson
+  - Danika L. Bannasch
+  publisher: Frontiers in Veterinary Science
+  date: '2020-07-24'
+  link: https://doi.org/g59bpv
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tig.2020.05.005
+  title: Genetic Variants Affecting Skeletal Morphology in Domestic Dogs
+  authors:
+  - Danika L. Bannasch
+  - Christine F. Baes
+  - Tosso Leeb
+  publisher: Trends in Genetics
+  date: '2020-08-01'
+  link: https://doi.org/hb43p2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1040638720929637
+  title: Quality of DNA extracted from formalin-fixed, paraffin-embedded canine tissues
+  authors:
+  - Jonathan D. Dear
+  - Jane E. Sykes
+  - Danika L. Bannasch
+  publisher: Journal of Veterinary Diagnostic Investigation
+  date: '2020-06-09'
+  link: https://doi.org/hb43p3
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cels.2020.06.006
+  title: Quantitative Translation of Dog-to-Human Aging by Conserved Remodeling of
+    the DNA Methylome
+  authors:
+  - Tina Wang
+  - Jianzhu Ma
+  - Andrew N. Hogan
+  - Samson Fong
+  - Katherine Licon
+  - Brian Tsui
+  - Jason F. Kreisberg
+  - Peter D. Adams
+  - Anne-Ruxandra Carvunis
+  - Danika L. Bannasch
+  - Elaine A. Ostrander
+  - Trey Ideker
+  publisher: Cell Systems
+  date: '2020-08-01'
+  link: https://doi.org/gg3z2z
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-63451-4
+  title: Whole genome sequencing for mutation discovery in a single case of lysosomal
+    storage disease (MPS type 1) in the dog
+  authors:
+  - Tamer A. Mansour
+  - Kevin D. Woolard
+  - Karen L. Vernau
+  - Devin M. Ancona
+  - Sara M. Thomasy
+  - Lionel Sebbag
+  - Bret A. Moore
+  - Marguerite F. Knipe
+  - Haitham A. Seada
+  - Tina M. Cowan
+  - Miriam Aguilar
+  - C. Titus Brown
+  - Danika L. Bannasch
+  publisher: Scientific Reports
+  date: '2020-04-16'
+  link: https://doi.org/ghfghm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/vop.12646
+  title: Evaluation of the major histocompatibility complex (MHC) class II as a candidate
+    for sudden acquired retinal degeneration syndrome (SARDS) in Dachshunds
+  authors:
+  - Stephanie J. Stromberg
+  - Sara M. Thomasy
+  - Ariana D. Marangakis
+  - Soohyun Kim
+  - Ann E. Cooper
+  - Emily A. Brown
+  - David J. Maggs
+  - Danika L. Bannasch
+  publisher: Veterinary Ophthalmology
+  date: '2019-02-21'
+  link: https://doi.org/hb43p4
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1008378
+  title: NME5 frameshift variant in Alaskan Malamutes with primary ciliary dyskinesia
+  authors:
+  - Linda Anderegg
+  - Michelle Im Hof Gut
+  - Udo Hetzel
+  - Elizabeth W. Howerth
+  - Fabienne Leuthard
+  - "Kaisa Ky\xF6stil\xE4"
+  - Hannes Lohi
+  - Louise Pettitt
+  - Cathryn Mellersh
+  - Katie M. Minor
+  - James R. Mickelson
+  - Kevin Batcher
+  - Danika Bannasch
+  - Vidhya Jagannathan
+  - Tosso Leeb
+  publisher: PLOS Genetics
+  date: '2019-09-03'
+  link: https://doi.org/ghfghj
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/age.12834
+  title: A comprehensive biomedical variant catalogue based on whole genome sequences
+    of 582 dogs and eight wolves
+  authors:
+  - V. Jagannathan
+  - "C. Dr\xF6gem\xFCller"
+  - T. Leeb
+  publisher: Animal Genetics
+  date: '2019-09-05'
+  link: https://doi.org/gsccrw
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0300985819868731
+  title: Pathologic Features of the Intervertebral Disc in Young Nova Scotia Duck
+    Tolling Retrievers Confirms Chondrodystrophy Degenerative Phenotype Associated
+    With Genotype
+  authors:
+  - Brian G. Murphy
+  - Peter Dickinson
+  - Denis J. Marcellin-Little
+  - Kevin Batcher
+  - Stephen Raverty
+  - Danika Bannasch
+  publisher: Veterinary Pathology
+  date: '2019-09-16'
+  link: https://doi.org/hb43p5
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes10060435
+  title: Phenotypic Effects of FGF4 Retrogenes on Intervertebral Disc Disease in Dogs
+  authors:
+  - Kevin Batcher
+  - Peter Dickinson
+  - Michelle Giuffrida
+  - Beverly Sturges
+  - Karen Vernau
+  - Marguerite Knipe
+  - Sheida Hadji Rasouliha
+  - "Cord Dr\xF6gem\xFCller"
+  - Tosso Leeb
+  - Kimberly Maciejczyk
+  - Christopher A. Jenkins
+  - Cathryn Mellersh
+  - Danika Bannasch
+  publisher: Genes
+  date: '2019-06-07'
+  link: https://doi.org/hb43p6
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/829192
+  title: Quantitative translation of dog-to-human aging by conserved remodeling of
+    epigenetic networks
+  authors:
+  - Tina Wang
+  - Jianzhu Ma
+  - Andrew N. Hogan
+  - Samson Fong
+  - Katherine Licon
+  - Brian Tsui
+  - Jason F. Kreisberg
+  - Peter D. Adams
+  - Anne-Ruxandra Carvunis
+  - Danika L. Bannasch
+  - Elaine A. Ostrander
+  - Trey Ideker
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2019-11-04'
+  link: https://doi.org/dftv
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1371/journal.pone.0192578
+  title: Association of cancer-related mortality, age and gonadectomy in golden retriever
+    dogs at a veterinary academic center (1989-2016)
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Michael S. Kent
+  - Jenna H. Burton
+  - Gillian Dank
+  - Danika L. Bannasch
+  - Robert B. Rebhun
+  publisher: PLOS ONE
+  date: '2018-02-06'
+  link: https://doi.org/gcxjv7
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1534/g3.118.200376
+  title: A Missense Mutation in the Vacuolar Protein Sorting 11 (<i>VPS11</i>) Gene
+    Is Associated with Neuroaxonal Dystrophy in Rottweiler Dogs
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Katherine L Lucot
+  - Peter J Dickinson
+  - Carrie J Finno
+  - Tamer A Mansour
+  - Anna Letko
+  - Katherine M Minor
+  - James R Mickelson
+  - "Cord Dr\xF6gem\xFCller"
+  - C Titus Brown
+  - Danika L Bannasch
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-08-01'
+  link: https://doi.org/ghfgpv
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-23938-7
+  title: Canine NAPEPLD-associated models of human myelin disorders
+  authors:
+  - K. M. Minor
+  - A. Letko
+  - D. Becker
+  - "M. Dr\xF6gem\xFCller"
+  - P. J. J. Mandigers
+  - S. R. Bellekom
+  - P. A. J. Leegwater
+  - Q. E. M. Stassen
+  - K. Putschbach
+  - A. Fischer
+  - T. Flegel
+  - K. Matiasek
+  - K. J. Ekenstedt
+  - E. Furrow
+  - E. E. Patterson
+  - S. R. Platt
+  - P. A. Kelly
+  - J. P. Cassidy
+  - G. D. Shelton
+  - K. Lucot
+  - D. L. Bannasch
+  - H. Martineau
+  - C. F. Muir
+  - S. L. Priestnall
+  - D. Henke
+  - A. Oevermann
+  - V. Jagannathan
+  - J. R. Mickelson
+  - "C. Dr\xF6gem\xFCller"
+  publisher: Scientific Reports
+  date: '2018-04-11'
+  link: https://doi.org/gdd9wm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jnen/nly020
+  title: Comparative Cytogenetic Analysis of Dog and Human Choroid Plexus Tumors Defines
+    Syntenic Regions of Genomic Loss
+  authors:
+  - Devin Ancona
+  - Dan York
+  - Robert J Higgins
+  - Danika Bannasch
+  - Peter J Dickinson
+  publisher: Journal of Neuropathology &amp; Experimental Neurology
+  date: '2018-03-14'
+  link: https://doi.org/hb43p7
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0195924
+  title: 'Correction: DNA Sequence Variants in the Five Prime Untranslated Region
+    of the Cyclooxygenase-2 Gene Are Commonly Found in Healthy Dogs and Gray Wolves'
+  authors:
+  - Noa Safra
+  - Louisa J. Hayward
+  - Miriam Aguilar
+  - Benjamin N. Sacks
+  - Jodi L. Westropp
+  - F. Charles Mohr
+  - Cathryn S. Mellersh
+  - Danika L. Bannasch
+  publisher: PLOS ONE
+  date: '2018-04-10'
+  link: https://doi.org/hb43p8
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esx074
+  title: Identification of a Candidate Mutation in the COL1A2 Gene of a Chow Chow
+    With Osteogenesis Imperfecta
+  authors:
+  - Erin M Quist
+  - Ryan Doan
+  - Roy R Pool
+  - Brian F Porter
+  - Danika L Bannasch
+  - Scott V Dindot
+  publisher: Journal of Heredity
+  date: '2017-09-19'
+  link: https://doi.org/gdd5jc
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1007850
+  title: Whole genome variant association across 100 dogs identifies a frame shift
+    mutation in DISHEVELLED 2 which contributes to Robinow-like syndrome in Bulldogs
+    and related screw tail dog breeds
+  authors:
+  - Tamer A. Mansour
+  - Katherine Lucot
+  - Sara E. Konopelski
+  - Peter J. Dickinson
+  - Beverly K. Sturges
+  - Karen L. Vernau
+  - Shannon Choi
+  - Joshua A. Stern
+  - Sara M. Thomasy
+  - "Sophie D\xF6ring"
+  - Frank J. M. Verstraete
+  - Eric G. Johnson
+  - Daniel York
+  - Robert B. Rebhun
+  - Hsin-Yi Henry Ho
+  - C. Titus Brown
+  - Danika L. Bannasch
+  publisher: PLOS Genetics
+  date: '2018-12-06'
+  link: https://doi.org/ghfgwc
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1709082114
+  title: "<i>FGF4</i>\n                    retrogene on CFA12 is responsible for chondrodystrophy\
+    \ and intervertebral disc disease in dogs"
+  authors:
+  - Emily A. Brown
+  - Peter J. Dickinson
+  - Tamer Mansour
+  - Beverly K. Sturges
+  - Miriam Aguilar
+  - Amy E. Young
+  - Courtney Korff
+  - Jenna Lind
+  - Cassandra L. Ettinger
+  - Samuel Varon
+  - Rachel Pollard
+  - C. Titus Brown
+  - Terje Raudsepp
+  - Danika L. Bannasch
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-10-11'
+  link: https://doi.org/gchjb2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/vop.12488
+  title: Genetic analysis of optic nerve head coloboma in the Nova Scotia Duck Tolling
+    Retriever identifies discordance with the <i><scp>NHEJ</scp>1</i> intronic deletion
+    (collie eye anomaly mutation)
+  authors:
+  - Emily A. Brown
+  - Sara M. Thomasy
+  - Christopher J. Murphy
+  - Danika L. Bannasch
+  publisher: Veterinary Ophthalmology
+  date: '2017-07-12'
+  link: https://doi.org/gc7djh
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nmd.2017.01.020
+  title: Association of early onset myasthenia gravis in Newfoundland dogs with the
+    canine major histocompatibility complex class I
+  authors:
+  - Zena Wolf
+  - Karen Vernau
+  - Noa Safra
+  - G. Diane Shelton
+  - Jason King
+  - Joseph Owen
+  - Kalie Weich
+  - Danika Bannasch
+  publisher: Neuromuscular Disorders
+  date: '2017-05-01'
+  link: https://doi.org/f98s55
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000402766800087
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000402766800087
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-017-3943-8
+  title: Developing a 670k genotyping array to tag ~2M SNPs across 24 horse breeds
+  authors:
+  - Robert J. Schaefer
+  - Mikkel Schubert
+  - Ernest Bailey
+  - Danika L. Bannasch
+  - Eric Barrey
+  - Gila Kahila Bar-Gal
+  - Gottfried Brem
+  - Samantha A. Brooks
+  - Ottmar Distl
+  - Ruedi Fries
+  - Carrie J. Finno
+  - Vinzenz Gerber
+  - Bianca Haase
+  - Vidhya Jagannathan
+  - Ted Kalbfleisch
+  - Tosso Leeb
+  - Gabriella Lindgren
+  - Maria Susana Lopes
+  - "N\xFAria Mach"
+  - "Artur da C\xE2mara Machado"
+  - James N. MacLeod
+  - Annette McCoy
+  - Julia Metzger
+  - Cecilia Penedo
+  - Sagi Polani
+  - Stefan Rieder
+  - Imke Tammen
+  - Jens Tetens
+  - Georg Thaller
+  - Andrea Verini-Supplizi
+  - Claire M. Wade
+  - Barbara Wallner
+  - Ludovic Orlando
+  - James R. Mickelson
+  - Molly E. McCue
+  publisher: BMC Genomics
+  date: '2017-07-27'
+  link: https://doi.org/gjcnz7
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/112979
+  title: "Developing a 670k genotyping array to tag \u223C2M SNPs across 24 horse\
+    \ breeds"
+  authors:
+  - Robert J. Schaefer
+  - Mikkel Schubert
+  - Ernest Bailey
+  - Danika L. Bannasch
+  - Eric Barrey
+  - Gila Kahila Bar-Gal
+  - Gottfried Brem
+  - Samantha A. Brooks
+  - Ottmar Distl
+  - Ruedi Fries
+  - Carrie J. Finno
+  - Vinzenz Gerber
+  - Bianca Haase
+  - Vidhya Jagannathan
+  - Ted Kalbfleisch
+  - Tosso Leeb
+  - Gabriella Lindgren
+  - Maria Susana Lopes
+  - Nuria Mach
+  - "Artur da C\xE2mara Machado"
+  - James N. MacLeod
+  - Annette McCoy
+  - Julia Metzger
+  - Cecilia Penedo
+  - Sagi Polani
+  - Stefan Rieder
+  - Imke Tammen
+  - Jens Tetens
+  - Georg Thaller
+  - Andrea Verini-Supplizi
+  - Claire M. Wade
+  - Barbara Wallner
+  - Ludovic Orlando
+  - James R. Mickelson
+  - Molly E. McCue
   publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2017-03-02'
+  link: https://doi.org/gkv5x7
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1186/s12917-017-0958-y
+  title: 'Evaluation of dogs with genetic hyperuricosuria and urate urolithiasis consuming
+    a purine restricted diet: a pilot study'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Jodi L. Westropp
+  - Jennifer A. Larsen
+  - Eric G. Johnson
+  - Dannika Bannasch
+  - Andrea J. Fascetti
+  - Vincent Biourge
+  - Yann Queau
+  publisher: BMC Veterinary Research
+  date: '2016-12-01'
+  link: https://doi.org/hb43p9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/144022
+  title: "<i>FGF4</i>\n                  retrogene on CFA12 is responsible for chondrodystrophy\
+    \ and intervertebral disc disease in dogs"
+  authors:
+  - Emily A. Brown
+  - Peter J. Dickinson
+  - Tamer Mansour
+  - Beverly K. Sturges
+  - Miriam Aguilar
+  - Amy E. Young
+  - Courtney Korff
+  - Jenna Lind
+  - Cassandra L. Ettinger
+  - Samuel Varon
+  - Rachel Pollard
+  - C. Titus Brown
+  - Terje Raudsepp
+  - Danika L. Bannasch
+  publisher: openRxiv
+  date: '2017-05-30'
+  link: https://doi.org/gkvrqf
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetimm.2016.08.003
+  title: Serum levels of innate immunity cytokines are elevated in dogs with metaphyseal
+    osteopathy (hypertrophic osteodytrophy) during active disease and remission
+  authors:
+  - Noa Safra
+  - Peta L. Hitchens
+  - Emanual Maverakis
+  - Anupam Mitra
+  - Courtney Korff
+  - Eric Johnson
+  - Amir Kol
+  - Michael J. Bannasch
+  - Niels C. Pedersen
+  - Danika L. Bannasch
+  publisher: Veterinary Immunology and Immunopathology
+  date: '2016-10-01'
+  link: https://doi.org/ggj5qz
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jnen/nlw042
+  title: Chromosomal Aberrations in Canine Gliomas Define Candidate Genes and Common
+    Pathways in Dogs and Humans
+  authors:
+  - Peter J. Dickinson
+  - Dan York
+  - Robert J. Higgins
+  - Richard A. LeCouteur
+  - Nikhil Joshi
+  - Danika Bannasch
+  publisher: Journal of Neuropathology &amp; Experimental Neurology
+  date: '2016-05-31'
+  link: https://doi.org/hb43qb
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2527/JAS2016.94SUPPLEMENT4106A
+  title: P4056 Evaluation of single nucleotide polymorphism (SNP) markers for canine
+    parentage analysis
+  authors:
+  - J. Qiu
+  - B. Simpson
+  - L. Kock
+  - J. Donner
+  - C. Cole
+  - S. Davison
+  - M. Dunn
+  - D. Bannasch
+  - A. Boyko
+  publisher: Journal of Animal Science
+  date: '2016-09-01'
+  link: https://doi.org/hb43qc
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12917-016-0911-5
+  title: 'Gonadectomy effects on the risk of immune disorders in the dog: a retrospective
+    study'
+  authors:
+  - Crystal R. Sundburg
+  - Janelle M. Belanger
+  - Danika L. Bannasch
+  - Thomas R. Famula
+  - Anita M. Oberbauer
+  publisher: BMC Veterinary Research
+  date: '2016-12-01'
+  link: https://doi.org/f9d583
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.freeradbiomed.2016.10.009
+  title: Transcriptome profiling of equine vitamin E deficient neuroaxonal dystrophy
+    identifies upregulation of liver X receptor target genes
+  authors:
+  - Carrie J. Finno
+  - Matthew H. Bordbari
+  - Stephanie J. Valberg
+  - David Lee
+  - Josi Herron
+  - Kelly Hines
+  - Tamer Monsour
+  - Erica Scott
+  - Danika L. Bannasch
+  - James Mickelson
+  - Libin Xu
+  publisher: Free Radical Biology and Medicine
+  date: '2016-12-01'
+  link: https://doi.org/f9hvm2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1006000
+  title: "Utilizing the Dog Genome in the Search for Novel Candidate Genes Involved\
+    \ in Glioma Development\u2014Genome Wide Association Mapping followed by Targeted\
+    \ Massive Parallel Sequencing Identifies a Strongly Associated Locus"
+  authors:
+  - "Katarina Truv\xE9"
+  - Peter Dickinson
+  - Anqi Xiong
+  - Daniel York
+  - Kartika Jayashankar
+  - Gerli Pielberg
+  - Michele Koltookian
+  - "Eva Mur\xE9n"
+  - Hans-Henrik Fuxelius
+  - Holger Weishaupt
+  - Fredrik J. Swartling
+  - "G\xF6ran Andersson"
+  - "\xC5ke Hedhammar"
+  - Erik Bongcam-Rudloff
+  - Karin Forsberg-Nilsson
+  - Danika Bannasch
+  - Kerstin Lindblad-Toh
+  publisher: PLOS Genetics
+  date: '2016-05-12'
+  link: https://doi.org/f3rj6q
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jvim.13618
+  title: "Blood and Cerebrospinal Fluid \u03B1-Tocopherol and Selenium Concentrations\
+    \ in Neonatal Foals with Neuroaxonal Dystrophy"
+  authors:
+  - C.J. Finno
+  - K.E. Estell
+  - S. Katzman
+  - L. Winfield
+  - A. Rendahl
+  - J. Textor
+  - D.L. Bannasch
+  - B. Puschner
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2015-11-01'
+  link: https://doi.org/hb43qd
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000370860204571
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000370860204571
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000362882206150
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000362882206150
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0133127
+  title: DNA Sequence Variants in the Five Prime Untranslated Region of the Cyclooxygenase-2
+    Gene Are Commonly Found in Healthy Dogs and Gray Wolves
+  authors:
+  - Noa Safra
+  - Louisa J. Hayward
+  - Miriam Aguilar
+  - Benjamin N. Sacks
+  - Jodi L. Westropp
+  - F. Charles Mohr
+  - Cathryn S. Mellersh
+  - Danika L. Bannasch
+  publisher: PLOS ONE
+  date: '2015-08-05'
+  link: https://doi.org/f72nm3
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005442
+  title: Early Developmental and Evolutionary Origins of Gene Body DNA Methylation
+    Patterns in Mammalian Placentas
+  authors:
+  - Diane I. Schroeder
+  - Kartika Jayashankar
+  - Kory C. Douglas
+  - Twanda L. Thirkill
+  - Daniel York
+  - Pete J. Dickinson
+  - Lawrence E. Williams
+  - Paul B. Samollow
+  - Pablo J. Ross
+  - Danika L. Bannasch
+  - Gordon C. Douglas
+  - Janine M. LaSalle
+  publisher: PLOS Genetics
+  date: '2015-08-04'
+  link: https://doi.org/f7q56c
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005059
+  title: Genome-Wide Association Studies in Dogs and Humans Identify ADAMTS20 as a
+    Risk Variant for Cleft Lip and Palate
+  authors:
+  - Zena T. Wolf
+  - Harrison A. Brand
+  - John R. Shaffer
+  - Elizabeth J. Leslie
+  - Boaz Arzi
+  - Cali E. Willet
+  - Timothy C. Cox
+  - Toby McHenry
+  - Nicole Narayan
+  - Eleanor Feingold
+  - Xioajing Wang
+  - Saundra Sliskovic
+  - Nili Karmi
+  - Noa Safra
+  - Carla Sanchez
+  - Frederic W. B. Deleyiannis
+  - Jeffrey C. Murray
+  - Claire M. Wade
+  - Mary L. Marazita
+  - Danika L. Bannasch
+  publisher: PLOS Genetics
+  date: '2015-03-23'
+  link: https://doi.org/f68c84
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005122
+  title: SERPINB11 Frameshift Variant Associated with Novel Hoof Specific Phenotype
+    in Connemara Ponies
+  authors:
+  - Carrie J. Finno
+  - Carlynn Stevens
+  - Amy Young
+  - Verena Affolter
+  - Nikhil A. Joshi
+  - Sheila Ramsay
+  - Danika L. Bannasch
+  publisher: PLOS Genetics
+  date: '2015-04-13'
+  link: https://doi.org/f7c4vp
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esu075
+  title: Single Nucleotide Polymorphism (SNP) Variation of Wolves (Canis lupus) in
+    Southeast Alaska and Comparison with Wolves, Dogs, and Coyotes in North America
+  authors:
+  - Matthew A. Cronin
+  - "Angela C\xE1novas"
+  - Danika L. Bannasch
+  - Anita M. Oberbauer
+  - Juan F. Medrano
+  publisher: Journal of Heredity
+  date: '2014-11-26'
+  link: https://doi.org/f66qc7
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000356676200010
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000356676200010
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esv029
+  title: 'Wolf Subspecies: Reply to Weckworth et al. and Fredrickson et al.: Table
+    1.'
+  authors:
+  - Matthew A. Cronin
+  - "Angela C\xE1novas"
+  - Danika L. Bannasch
+  - Anita M. Oberbauer
+  - Juan F. Medrano
+  publisher: Journal of Heredity
+  date: '2015-01-01'
+  link: https://doi.org/hb43qf
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bpa.12188
+  title: "Thiamine Deficiency\u2010Mediated Brain Mitochondrial Pathology in<scp>A</scp>laskan<scp>H</scp>uskies\
+    \ with Mutation in<scp><i>SLC19A3.1</i></scp>"
+  authors:
+  - Karen Vernau
+  - Eleonora Napoli
+  - Sarah Wong
+  - "Catherine Ross\u2010Inta"
+  - Jessie Cameron
+  - Danika Bannasch
+  - Andrew Bollen
+  - Peter Dickinson
+  - Cecilia Giulivi
+  publisher: Brain Pathology
+  date: '2014-10-29'
+  link: https://doi.org/hb43qg
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evj.12294
+  title: Applied equine genetics
+  authors:
+  - C. J. Finno
+  - D. L. Bannasch
+  publisher: Equine Veterinary Journal
+  date: '2014-06-25'
+  link: https://doi.org/f6dc2w
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1004257
+  title: A LINE-1 Insertion in DLX6 Is Responsible for Cleft Palate and Mandibular
+    Abnormalities in a Canine Model of Pierre Robin Sequence
+  authors:
+  - Zena T. Wolf
+  - Elizabeth J. Leslie
+  - Boaz Arzi
+  - Kartika Jayashankar
+  - Nili Karmi
+  - Zhonglin Jia
+  - Douglas J. Rowland
+  - Amy Young
+  - Noa Safra
+  - Saundra Sliskovic
+  - Jeffrey C. Murray
+  - Claire M. Wade
+  - Danika L. Bannasch
+  publisher: PLoS Genetics
+  date: '2014-04-03'
+  link: https://doi.org/f5389w
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/glia.22582
+  title: "A mutation in the canine gene encoding folliculin\u2010interacting protein\
+    \ 2 (FNIP2) associated with a unique disruption in spinal cord myelination"
+  authors:
+  - Trevor J. Pemberton
+  - Sunju Choi
+  - Joshua A. Mayer
+  - "Fang\u2010Yuan Li"
+  - Nolan Gokey
+  - John Svaren
+  - Noa Safra
+  - Danika L. Bannasch
+  - Katrina Sullivan
+  - Babetta Breuhaus
+  - Pragna I. Patel
+  - Ian D. Duncan
+  publisher: Glia
+  date: '2013-11-23'
+  link: https://doi.org/ghfgvr
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tvjl.2014.09.013
+  title: 'Risk of false positive genetic associations in complex traits with underlying
+    population structure: A case study'
+  authors:
+  - Carrie J. Finno
+  - Monica Aleman
+  - Robert J. Higgins
+  - John E. Madigan
+  - Danika L. Bannasch
+  publisher: The Veterinary Journal
+  date: '2014-12-01'
+  link: https://doi.org/hb43qh
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/javma.242.9.1260
+  title: "Clinical manifestations, response to treatment, and clinical outcome for\
+    \ Weimaraners with hypertrophic osteodystrophy: 53 cases (2009\u20132011)"
+  authors:
+  - Noa Safra
+  - Eric G. Johnson
+  - Lisa Lit
+  - Oded Foreman
+  - Zena T. Wolf
+  - Miriam Aguilar
+  - Nili Karmi
+  - Carrie J. Finno
+  - Danika L. Bannasch
+  publisher: Journal of the American Veterinary Medical Association
+  date: '2013-05-01'
+  link: https://doi.org/f58d33
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0054997
+  title: Genetic Diversity in the Modern Horse Illustrated from Genome-Wide SNP Data
+  authors:
+  - Jessica L. Petersen
+  - James R. Mickelson
+  - E. Gus Cothran
+  - Lisa S. Andersson
+  - Jeanette Axelsson
+  - Ernie Bailey
+  - Danika Bannasch
+  - Matthew M. Binns
+  - Alexandre S. Borges
+  - Pieter Brama
+  - "Artur da C\xE2mara Machado"
+  - Ottmar Distl
+  - Michela Felicetti
+  - Laura Fox-Clipsham
+  - Kathryn T. Graves
+  - "G\xE9rard Gu\xE9rin"
+  - Bianca Haase
+  - Telhisa Hasegawa
+  - Karin Hemmann
+  - Emmeline W. Hill
+  - Tosso Leeb
+  - Gabriella Lindgren
+  - Hannes Lohi
+  - Maria Susana Lopes
+  - Beatrice A. McGivney
+  - Sofia Mikko
+  - Nicholas Orr
+  - M. Cecilia T Penedo
+  - Richard J. Piercy
+  - Marja Raekallio
+  - Stefan Rieder
+  - "Knut H. R\xF8ed"
+  - Maurizio Silvestrelli
+  - June Swinburne
+  - Teruaki Tozaki
+  - Mark Vaudin
+  - Claire M. Wade
+  - Molly E. McCue
+  publisher: PLoS ONE
+  date: '2013-01-30'
+  link: https://doi.org/f229jr
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1003211
+  title: Genome-Wide Analysis Reveals Selection for Important Traits in Domestic Horse
+    Breeds
+  authors:
+  - Jessica L. Petersen
+  - James R. Mickelson
+  - Aaron K. Rendahl
+  - Stephanie J. Valberg
+  - Lisa S. Andersson
+  - Jeanette Axelsson
+  - Ernie Bailey
+  - Danika Bannasch
+  - Matthew M. Binns
+  - Alexandre S. Borges
+  - Pieter Brama
+  - "Artur da C\xE2mara Machado"
+  - Stefano Capomaccio
+  - Katia Cappelli
+  - E. Gus Cothran
+  - Ottmar Distl
+  - Laura Fox-Clipsham
+  - Kathryn T. Graves
+  - "G\xE9rard Gu\xE9rin"
+  - Bianca Haase
+  - Telhisa Hasegawa
+  - Karin Hemmann
+  - Emmeline W. Hill
+  - Tosso Leeb
+  - Gabriella Lindgren
+  - Hannes Lohi
+  - Maria Susana Lopes
+  - Beatrice A. McGivney
+  - Sofia Mikko
+  - Nicholas Orr
+  - M. Cecilia T. Penedo
+  - Richard J. Piercy
+  - Marja Raekallio
+  - Stefan Rieder
+  - "Knut H. R\xF8ed"
+  - June Swinburne
+  - Teruaki Tozaki
+  - Mark Vaudin
+  - Claire M. Wade
+  - Molly E. McCue
+  publisher: PLoS Genetics
+  date: '2013-01-17'
+  link: https://doi.org/f224c4
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0057195
+  title: Genome-Wide Association Analysis Identifies a Mutation in the Thiamine Transporter
+    2 (SLC19A3) Gene Associated with Alaskan Husky Encephalopathy
+  authors:
+  - Karen M. Vernau
+  - Jonathan A. Runstadler
+  - Emily A. Brown
+  - Jessie M. Cameron
+  - Heather J. Huson
+  - Robert J. Higgins
+  - Cameron Ackerley
+  - Beverly K. Sturges
+  - Peter J. Dickinson
+  - Birgit Puschner
+  - Cecilia Giulivi
+  - G. Diane Shelton
+  - Brian H. Robinson
+  - Salvatore DiMauro
+  - Andrew W. Bollen
+  - Danika L. Bannasch
+  publisher: PLoS ONE
+  date: '2013-03-04'
+  link: https://doi.org/f4pg6b
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1003646
+  title: Genome-Wide Association Mapping in Dogs Enables Identification of the Homeobox
+    Gene, NKX2-8, as a Genetic Component of Neural Tube Defects in Humans
+  authors:
+  - Noa Safra
+  - Alexander G. Bassuk
+  - Polly J. Ferguson
+  - Miriam Aguilar
+  - Rochelle L. Coulson
+  - Nicholas Thomas
+  - Peta L. Hitchens
+  - Peter J. Dickinson
+  - Karen M. Vernau
+  - Zena T. Wolf
+  - Danika L. Bannasch
+  publisher: PLoS Genetics
+  date: '2013-07-18'
+  link: https://doi.org/gbdgq4
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jvim.12015
+  title: "Pedigree Analysis and Exclusion of Alpha-Tocopherol Transfer Protein (\n\
+    \                    <i>TTPA</i>\n                    ) as a Candidate Gene for\
+    \ Neuroaxonal Dystrophy in the American Quarter Horse"
+  authors:
+  - C.J. Finno
+  - T. Famula
+  - M. Aleman
+  - R.J. Higgins
+  - J.E. Madigan
+  - D.L. Bannasch
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2013-01-01'
+  link: https://doi.org/f4ndwz
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/javma.242.11.1549
+  title: "Prevalence of inherited disorders among mixed-breed and purebred dogs: 27,254\
+    \ cases (1995\u20132010)"
+  authors:
+  - Thomas P. Bellumori
+  - Thomas R. Famula
+  - Danika L. Bannasch
+  - Janelle M. Belanger
+  - Anita M. Oberbauer
+  publisher: Journal of the American Veterinary Medical Association
+  date: '2013-06-01'
+  link: https://doi.org/hb43qj
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ajhb.22308
+  title: 'Aggression, advances in genetics, volume 75. Edited by Robert Huber, Danika
+    L. Bannasch, and Patricia Brennan, x + 296 pp. Boston, MA: Academic Press (Elsevier).
+    2011. $161.00 (cloth).'
+  authors:
+  - Kevin M. Beaver
+  publisher: American Journal of Human Biology
+  date: '2012-07-25'
+  link: https://doi.org/hb43qk
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1002451
+  title: 'A High Density SNP Array for the Domestic Horse and Extant Perissodactyla:
+    Utility for Association Mapping, Genetic Diversity, and Phylogeny Studies'
+  authors:
+  - Molly E. McCue
+  - Danika L. Bannasch
+  - Jessica L. Petersen
+  - Jessica Gurr
+  - Ernie Bailey
+  - Matthew M. Binns
+  - Ottmar Distl
+  - "G\xE9rard Gu\xE9rin"
+  - Telhisa Hasegawa
+  - Emmeline W. Hill
+  - Tosso Leeb
+  - Gabriella Lindgren
+  - M. Cecilia T. Penedo
+  - "Knut H. R\xF8ed"
+  - Oliver A. Ryder
+  - June E. Swinburne
+  - Teruaki Tozaki
+  - Stephanie J. Valberg
+  - Mark Vaudin
+  - Kerstin Lindblad-Toh
+  - Claire M. Wade
+  - James R. Mickelson
+  publisher: PLoS Genetics
+  date: '2012-01-12'
+  link: https://doi.org/fzcbn8
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000334566
+  title: "Activity, Expression and Genetic Variation of Canine \u03B2-Defensin 103:\
+    \ A Multifunctional Antimicrobial Peptide in the Skin of Domestic Dogs"
+  authors:
+  - Brian C. Leonard
+  - Stanley L. Marks
+  - Catherine A. Outerbridge
+  - Verena K. Affolter
+  - Anchasa Kananurak
+  - Amy Young
+  - Peter F. Moore
+  - Danika L. Bannasch
+  - Charles L. Bevins
+  publisher: Journal of Innate Immunity
+  date: '2012-01-01'
+  link: https://doi.org/fx55j4
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1463-5224.2012.00997.x
+  title: Electrophysiological studies in American Quarter horses with neuroaxonal
+    dystrophy
+  authors:
+  - Carrie J. Finno
+  - Monica Aleman
+  - Ron Ofri
+  - Steven R. Hollingsworth
+  - John E. Madigan
+  - Laramie Winfield
+  - Danika L. Bannasch
+  publisher: Veterinary Ophthalmology
+  date: '2012-03-20'
+  link: https://doi.org/f382wk
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1939-1676.2011.00817.x
+  title: Equine Degenerative Myeloencephalopathy in Lusitano Horses
+  authors:
+  - C.J. Finno
+  - R.J. Higgins
+  - M. Aleman
+  - R. Ofri
+  - S.R. Hollingsworth
+  - D.L. Bannasch
+  - C.M. Reilly
+  - J.E. Madigan
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2011-11-01'
+  link: https://doi.org/bzhc9s
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tvjl.2009.10.012
+  title: Examination of candidate genes for hypoadrenocorticism in Nova Scotia Duck
+    Tolling Retrievers
+  authors:
+  - Angela M. Hughes
+  - Danika L. Bannasch
+  - Kristin Kellett
+  - Anita M. Oberbauer
+  publisher: The Veterinary Journal
+  date: '2011-02-01'
+  link: https://doi.org/dr384c
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tvjl.2011.06.023
+  title: Expanded dog leukocyte antigen (DLA) single nucleotide polymorphism (SNP)
+    genotyping reveals spurious class II associations
+  authors:
+  - N. Safra
+  - N.C. Pedersen
+  - Z. Wolf
+  - E.G. Johnson
+  - H.W. Liu
+  - A.M. Hughes
+  - A. Young
+  - D.L. Bannasch
+  publisher: The Veterinary Journal
+  date: '2011-08-01'
+  link: https://doi.org/ff9km8
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1002316
+  title: Identification of Genomic Regions Associated with Phenotypic Variation between
+    Dog Breeds using Selection Mapping
+  authors:
+  - Amaury Vaysse
+  - Abhirami Ratnakumar
+  - Thomas Derrien
+  - Erik Axelsson
+  - Gerli Rosengren Pielberg
+  - Snaevar Sigurdsson
+  - Tove Fall
+  - "Eija H. Sepp\xE4l\xE4"
+  - Mark S. T. Hansen
+  - Cindy T. Lawley
+  - Elinor K. Karlsson
+  - Danika Bannasch
+  - "Carles Vil\xE0"
+  - Hannes Lohi
+  - Francis Galibert
+  - Merete Fredholm
+  - "Jens H\xE4ggstr\xF6m"
+  - "\xC5ke Hedhammar"
+  - "Catherine Andr\xE9"
+  - Kerstin Lindblad-Toh
+  - Christophe Hitte
+  - Matthew T. Webster
+  publisher: PLoS Genetics
+  date: '2011-10-13'
+  link: https://doi.org/dn77x8
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0028496
+  title: Phylogenetic Distinctiveness of Middle Eastern and Southeast Asian Village
+    Dog Y Chromosomes Illuminates Dog Origins
+  authors:
+  - Sarah K. Brown
+  - Niels C. Pedersen
+  - Sardar Jafarishorijeh
+  - Danika L. Bannasch
+  - Kristen D. Ahrens
+  - Jui-Te Wu
+  - Michaella Okon
+  - Benjamin N. Sacks
+  publisher: PLoS ONE
+  date: '2011-12-14'
+  link: https://doi.org/d62zmq
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000277416600126
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000277416600126
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1399-0039.2010.01440.x
+  title: Association of a dog leukocyte antigen class II haplotype with hypoadrenocorticism
+    in Nova Scotia Duck Tolling Retrievers
+  authors:
+  - A. M. Hughes
+  - P. Jokinen
+  - D. L. Bannasch
+  - H. Lohi
+  - A. M. Oberbauer
+  publisher: Tissue Antigens
+  date: '2010-01-28'
+  link: https://doi.org/b6pmhg
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1939-1676.2010.0631.x
+  title: Estimated Frequency of the Canine Hyperuricosuria Mutation in Different Dog
+    Breeds
+  authors:
+  - N. Karmi
+  - E.A. Brown
+  - S.S. Hughes
+  - B. McLaughlin
+  - C.S. Mellersh
+  - V. Biourge
+  - D.L. Bannasch
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2010-11-01'
+  link: https://doi.org/ff5scn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature08837
+  title: Genome-wide SNP and haplotype analyses reveal a rich history underlying dog
+    domestication
+  authors:
+  - Bridgett M. vonHoldt
+  - John P. Pollinger
+  - Kirk E. Lohmueller
+  - Eunjung Han
+  - Heidi G. Parker
+  - Pascale Quignon
+  - Jeremiah D. Degenhardt
+  - Adam R. Boyko
+  - Dent A. Earl
+  - Adam Auton
+  - Andy Reynolds
+  - Kasia Bryc
+  - Abra Brisbin
+  - James C. Knowles
+  - Dana S. Mosher
+  - Tyrone C. Spady
+  - Abdel Elkahloun
+  - Eli Geffen
+  - Malgorzata Pilot
+  - Wlodzimierz Jedrzejewski
+  - Claudia Greco
+  - Ettore Randi
+  - Danika Bannasch
+  - Alan Wilton
+  - Jeremy Shearman
+  - Marco Musiani
+  - Michelle Cargill
+  - Paul G. Jones
+  - Zuwei Qian
+  - Wei Huang
+  - Zhao-Li Ding
+  - Ya-ping Zhang
+  - Carlos D. Bustamante
+  - Elaine A. Ostrander
+  - John Novembre
+  - Robert K. Wayne
+  publisher: Nature
+  date: '2010-03-17'
+  link: https://doi.org/dn9f2q
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.525
+  title: Genome-wide association mapping identifies multiple loci for a canine SLE-related
+    disease complex
+  authors:
+  - Maria Wilbe
+  - "P\xE4ivi Jokinen"
+  - "Katarina Truv\xE9"
+  - Eija H Seppala
+  - Elinor K Karlsson
+  - Tara Biagi
+  - Angela Hughes
+  - Danika Bannasch
+  - "G\xF6ran Andersson"
+  - Helene Hansson-Hamlin
+  - Hannes Lohi
+  - Kerstin Lindblad-Toh
+  publisher: Nature Genetics
+  date: '2010-01-31'
+  link: https://doi.org/d77hq9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1939-1676.2010.0600.x
+  title: Letter to the Editor
+  authors:
+  - Danika Bannasch
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2010-11-01'
+  link: https://doi.org/d3btc6
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0009632
+  title: Localization of Canine Brachycephaly Using an Across Breed Mapping Approach
+  authors:
+  - Danika Bannasch
+  - Amy Young
+  - Jeffrey Myers
+  - "Katarina Truv\xE9"
+  - Peter Dickinson
+  - Jeffrey Gregg
+  - Ryan Davis
+  - Eric Bongcam-Rudloff
+  - Matthew T. Webster
+  - Kerstin Lindblad-Toh
+  - Niels Pedersen
+  publisher: PLoS ONE
+  date: '2010-03-10'
+  link: https://doi.org/ftr8gn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/ajvr.71.11.1257
+  title: Letter to the Editor
+  authors: []
+  publisher: American Journal of Veterinary Research
+  date: '2010-11-01'
+  link: https://doi.org/dhvsmg
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/ajvr.71.8.909
+  title: Validation of a urine test and characterization of the putative genetic mutation
+    for hyperuricosuria in Bulldogs and Black Russian Terriers
+  authors:
+  - Nili Karmi
+  - Noa Safra
+  - Amy Young
+  - Danika L. Bannasch
+  publisher: American Journal of Veterinary Research
+  date: '2010-08-01'
+  link: https://doi.org/b87xx9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cvsm.2008.09.006
+  title: Changing Paradigms in Diagnosis of Inherited Defects Associated with Urolithiasis
+  authors:
+  - Danika Bannasch
+  - Paula S. Henthorn
+  publisher: 'Veterinary Clinics of North America: Small Animal Practice'
+  date: '2009-01-01'
+  link: https://doi.org/dmvbxn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/javma.234.1.120
+  title: Evaluation of allele frequencies of inherited disease genes in subgroups
+    of American Quarter Horses
+  authors:
+  - Robert C. Tryon
+  - M. Cecilia T. Penedo
+  - Molly E. McCue
+  - Stephanie J. Valberg
+  - James R. Mickelson
+  - Thomas R. Famula
+  - Michelle L. Wagner
+  - Mark Jackson
+  - Michael J. Hamilton
+  - Sabine Nooteboom
+  - Danika L. Bannasch
+  publisher: Journal of the American Veterinary Medical Association
+  date: '2009-01-01'
+  link: https://doi.org/chc8p5
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jevs.2008.10.004
+  title: Genetic Testing and the Future of Equine Genomics
+  authors:
+  - Danika Bannasch
+  publisher: Journal of Equine Veterinary Science
+  date: '2008-11-01'
+  link: https://doi.org/dtwdvn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2156-9-67
+  title: Canine fibroblast growth factor receptor 3 sequence is conserved across dogs
+    of divergent skeletal size
+  authors:
+  - Logan B Smith
+  - Danika L Bannasch
+  - Amy E Young
+  - Deborah I Grossman
+  - Janelle M Belanger
+  - Anita M Oberbauer
+  publisher: BMC Genetics
+  date: '2008-10-21'
+  link: https://doi.org/cmpc74
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msn082
+  title: Coyotes Demonstrate How Habitat Specialization by Individuals of a Generalist
+    Species Can Diversify Populations in a Heterogeneous Ecoregion
+  authors:
+  - B. N. Sacks
+  - D. L. Bannasch
+  - B. B. Chomel
+  - H. B. Ernest
+  publisher: Molecular Biology and Evolution
+  date: '2008-04-03'
+  link: https://doi.org/b4x7vh
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1000246
+  title: Mutations in the SLC2A9 Gene Cause Hyperuricosuria and Hyperuricemia in the
+    Dog
+  authors:
+  - Danika Bannasch
+  - Noa Safra
+  - Amy Young
+  - Nili Karmi
+  - R. S. Schaible
+  - G. V. Ling
+  publisher: PLoS Genetics
+  date: '2008-11-07'
+  link: https://doi.org/b644th
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10495390701638328
+  title: SNP<scp>S</scp>in the Promoter Regions of the Canine RMRP and SHOX Genes
+    are not Associated with Canine Chondrodysplasia
+  authors:
+  - Amy E. Young
+  - Danika L. Bannasch
+  publisher: Animal Biotechnology
+  date: '2008-01-18'
+  link: https://doi.org/ftdt64
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:16765680
+  title: ISSN 1676-5680 - Genetics and Molecular Research
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/16765680
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000251613400017
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000251613400017
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-3164.2007.00562.x
+  title: "Clinical and pathological findings in a HERDA\u2010affected foal for 1.5\_\
+    years of life"
+  authors:
+  - Stephen D. White
+  - Verena K. Affolter
+  - Patricia C. Schultheiss
+  - Barry A. Ball
+  - Myrthe T. Wessel
+  - Phillip Kass
+  - Annette M. Molinaro
+  - Danika L. Bannasch
+  - Peter J. Ihrke
+  publisher: Veterinary Dermatology
+  date: '2007-01-03'
+  link: https://doi.org/dskb3b
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/javma.231.3.407
+  title: "Clinical features and heritability of hypoadrenocorticism in Nova Scotia\
+    \ Duck Tolling Retrievers: 25 cases (1994\u20132006)"
+  authors:
+  - Angela M. Hughes
+  - Richard W. Nelson
+  - Thomas R. Famula
+  - Danika L. Bannasch
+  publisher: Journal of the American Veterinary Medical Association
+  date: '2007-08-01'
+  link: https://doi.org/cvjmwd
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tvjl.2006.05.023
+  title: Evaluation of FOXC2 as a candidate gene for chronic progressive lymphedema
+    in draft horses
+  authors:
+  - Amy E. Young
+  - Leslie P. Bower
+  - Verena K. Affolter
+  - Hilde E.V. De Cock
+  - Gregory L. Ferraro
+  - Danika L. Bannasch
+  publisher: The Veterinary Journal
+  date: '2007-09-01'
+  link: https://doi.org/b336pd
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ygeno.2007.03.009
+  title: Homozygosity mapping approach identifies a missense mutation in equine cyclophilin
+    B (PPIB) associated with HERDA in the American Quarter Horse
+  authors:
+  - Robert C. Tryon
+  - Stephen D. White
+  - Danika L. Bannasch
+  publisher: Genomics
+  date: '2007-07-01'
+  link: https://doi.org/b56z2j
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tvjl.2005.11.008
+  title: SRY negative 64,XX intersex phenotype in an American saddlebred horse
+  authors:
+  - D. Bannasch
+  - C. Rinaldo
+  - L. Millon
+  - K. Latson
+  - T. Spangler
+  - S. Hubberty
+  - L. Galuppo
+  - L. Lowenstine
+  publisher: The Veterinary Journal
+  date: '2007-03-01'
+  link: https://doi.org/fwvqgg
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00335-005-0163-3
+  title: Deletions in the COL10A1 gene are not associated with skeletal changes in
+    dogs
+  authors:
+  - Amy E. Young
+  - Jeanne R. Ryun
+  - Danika L. Bannasch
+  publisher: Mammalian Genome
+  date: '2006-07-01'
+  link: https://doi.org/dd85hm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/J.1476-5829.2006.00112.X
+  title: Development of a new canine osteosarcoma cell line
+  authors:
+  - "B. S\xE9guin"
+  - T. Zwerdling
+  - J. L. McCallan
+  - H. E. V. DeCock
+  - L. L. Dewe
+  - D. K. Naydan
+  - A. E. Young
+  - D. L. Bannasch
+  - O. Foreman
+  - M. S. Kent
+  publisher: Veterinary and Comparative Oncology
+  date: '2006-11-16'
+  link: https://doi.org/cpjmk9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00335-005-0137-5
+  title: Linkage analysis with an interbreed backcross maps Dalmatian hyperuricosuria
+    to CFA03
+  authors:
+  - Noa Safra
+  - Robert H. Schaible
+  - Danika L. Bannasch
+  publisher: Mammalian Genome
+  date: '2006-04-01'
+  link: https://doi.org/bmnncb
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000274725700006
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000274725700006
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cvsm.2005.12.004
+  title: Recent Advances in Small Animal Genetics
+  authors:
+  - Danika L. Bannasch
+  - Angela M. Hughes
+  publisher: 'Veterinary Clinics of North America: Small Animal Practice'
+  date: '2006-05-01'
+  link: https://doi.org/dxwqx9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00335-004-2435-8
+  title: Y chromosome haplotype analysis in purebred dogs
+  authors:
+  - Danika L. Bannasch
+  - Michael J. Bannasch
+  - Jeanne R. Ryun
+  - Thomas R. Famula
+  - Niels C. Pedersen
+  publisher: Mammalian Genome
+  date: '2005-04-01'
+  link: https://doi.org/dsv89q
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10425170500136822
+  title: 'Canine<i>COL4A3</i>and<i>COL4A4</i>: Sequencing, mapping and genomic organization'
+  authors:
+  - Anje C. Wiersma
+  - Lee V. Millon
+  - Matthew S. Hestand
+  - Bernard A. Van Oost
+  - Danika L. Bannasch
+  publisher: DNA Sequence
+  date: '2005-01-01'
+  link: https://doi.org/b4r796
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esi068
+  title: Evaluation of Canine COL4A3 and COL4A4 as Candidates for Familial Renal Disease
+    in the Norwegian Elkhound
+  authors:
+  - A. C. Wiersma
+  publisher: Journal of Heredity
+  date: '2005-10-26'
+  link: https://doi.org/dzc6ns
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esi078
+  title: Exclusion of Urate Oxidase as a Candidate Gene for Hyperuricosuria in the
+    Dalmatian Dog Using an Interbreed Backcross
+  authors:
+  - N. Safra
+  publisher: Journal of Heredity
+  date: '2005-10-26'
+  link: https://doi.org/ff4hwq
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-05-0642
+  title: 'Functional Profiling: From Microarrays via Cell-Based Assays to Novel Tumor
+    Relevant Modulators of the Cell Cycle'
+  authors:
+  - Dorit Arlt
+  - Wolfgang Huber
+  - Urban Liebel
+  - Christian Schmidt
+  - Meher Majety
+  - Mamatha Sauermann
+  - Heiko Rosenfelder
+  - Stephanie Bechtel
+  - Alexander Mehrle
+  - Detlev Bannasch
+  - Ingo Schupp
+  - Markus Seiler
+  - Jeremy C. Simpson
+  - Florian Hahne
+  - Petra Moosmayer
+  - Markus Ruschhaupt
+  - Birgit Guilleaume
+  - Ruth Wellenreuther
+  - Rainer Pepperkok
+  - "Holger Su\u0308ltmann"
+  - Annemarie Poustka
+  - Stefan Wiemann
+  publisher: Cancer Research
+  date: '2005-09-01'
+  link: https://doi.org/hb43qm
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/ajvr.2005.66.437
+  title: Inheritance of hereditary equine regional dermal asthenia in Quarter Horses
+  authors:
+  - Robert C. Tryon
+  - Stephen D. White
+  - Thomas R. Famula
+  - Patricia C. Schultheiss
+  - Dwayne W. Hamar
+  - Danika L. Bannasch
+  publisher: American Journal of Veterinary Research
+  date: '2005-03-01'
+  link: https://doi.org/d84n57
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000227882600002
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000227882600002
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1892/0891-6640(2005)19<143:QIODA>2.0.CO;2
+  title: Questionable Incidence of Dalmatian Urolithiasis
+  authors: []
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2005-01-01'
+  link: https://doi.org/brm6tj
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2052.2004.01154.x
+  title: Exclusion of<i>galectin 9</i>as a candidate gene for hyperuricosuria in the
+    Dalmatian dog
+  authors:
+  - D. L. Bannasch
+  - J. R. Ryun
+  - M. J. Bannasch
+  - R. H. Schaible
+  - M. Breen
+  - G. Ling
+  publisher: Animal Genetics
+  date: '2004-06-17'
+  link: https://doi.org/fk7kwh
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-3164.2004.00402.x
+  title: "Hereditary equine regional dermal asthenia (\u2018hyperelastosis cutis\u2019\
+    ) in 50 horses: clinical, histological, immunohistological and ultrastructural\
+    \ findings"
+  authors:
+  - STEPHEN D. WHITE
+  - VERENA K. AFFOLTER
+  - DANIKA L. BANNASCH
+  - PATRICIA C. SCHULTHEISS
+  - DWAYNE W. HAMAR
+  - PHILLIP L. CHAPMAN
+  - DIANE NAYDAN
+  - SHARON J. SPIER
+  - ROD A. W. ROSYCHUK
+  - CHRISTINE REES
+  - GREGG O. VENEKLASEN
+  - ALONDRA MARTIN
+  - DIANE BEVIER
+  - HILARY A. JACKSON
+  - SONYA BETTENAY
+  - JENNIFER MATOUSEK
+  - KAREN L. CAMPBELL
+  - PETER J. IHRKE
+  publisher: Veterinary Dermatology
+  date: '2004-08-01'
+  link: https://doi.org/dv62n9
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2460/ajvr.2004.65.344
+  title: Inheritance of cricopharyngeal dysfunction in Golden Retrievers
+  authors:
+  - Autumn P. Davidson
+  - Rachel E. Pollard
+  - Danika L. Bannasch
+  - Stanley L. Marks
+  - William J. Hornof
+  - Thomas R. Famula
+  publisher: American Journal of Veterinary Research
+  date: '2004-03-01'
+  link: https://doi.org/cd4sr2
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1892/0891-6640(2004)18<483:IOUCIT>2.0.CO;2
+  title: Inheritance of Urinary Calculi in the Dalmatian
+  authors:
+  - DL Bannasch
+  - GV Ling
+  - J Bea
+  - TR Famula
+  publisher: Journal of Veterinary Internal Medicine
+  date: '2004-07-01'
+  link: https://doi.org/dd58st
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0195-5616(01)50214-4
+  title: Canine Molecular Genetic Testing
+  authors:
+  - Danika L. Metallinos
+  publisher: 'Veterinary Clinics of North America: Small Animal Practice'
+  date: '2001-03-01'
+  link: https://doi.org/hb43qn
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:14656914
+  title: ISSN 1465-6914 - GenomeBiology.com (London. Online)
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/14656914
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s003350010005
+  title: Melanocortin 1 receptor variation in the domestic dog
+  authors:
+  - J.M. Newton
+  - Alison L. Wilkie
+  - Lin He
+  - "Siobh\xE1n A. Jordan"
+  - Danika L. Metallinos
+  - Nigel G. Holmes
+  - Ian J. Jackson
+  - Gregory S. Barsh
+  publisher: Mammalian Genome
+  date: '2000-01-01'
+  link: https://doi.org/b4btxz
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s003359900790
+  title: 'A missense mutation in the endothelin-B receptor gene is associated with
+    Lethal White Foal Syndrome: an equine version of Hirschsprung Disease'
+  authors:
+  - "D.L. Metallinos *, \x86 , A.T. Bowling"
+  - J. Rine
+  publisher: Mammalian Genome
+  date: '1998-06-01'
+  link: https://doi.org/bgfc5m
+  orcid: 0000-0002-7614-7207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:00166731
+  title: ISSN 0016-6731 - Genetics (Austin, Tex.)
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/00166731
+  orcid: 0000-0002-7614-7207
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +2627,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +2643,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
