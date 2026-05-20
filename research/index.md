@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis in a Litter of Mixed-Breed Dogs" style="rich" %}
 
 {% include section.html %}
 
