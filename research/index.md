@@ -14,6 +14,7 @@ List of all research involving Dr. Danika Bannasch. We study variants leading to
 
 {% include citation.html lookup="A variant in RESF1 is associated with Addison’s disease and multiple autoimmune syndrome in young Nova Scotia Duck Tolling Retrievers" style="rich" %}
 {% include citation.html lookup="Ancient segmentally duplicated LCORL retrocopies in equids" style="rich" %}
+{% include citation.html lookup="Recent, full-length gene retrocopies are common in canids" style="rich" %}
 
 {% include section.html %}
 
