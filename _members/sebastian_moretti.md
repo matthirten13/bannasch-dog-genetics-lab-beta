@@ -2,7 +2,7 @@
 name: Sebastian Moretti
 image: images/photo.jpg
 description: Undergrad
-role: undergrad
+role: undergrad_bioinformatics
 links:
 
 ---
