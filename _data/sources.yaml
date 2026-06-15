@@ -3,6 +3,8 @@
   image: images/splice_paper_figure.png
   description: A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis in a Litter of Mixed-Breed Dogs
   date: 2026-1-26
+- id: doi:10.1371/journal.pone.0286861
+  image: images/figures/lcorl_figure.png
 - id: doi:10.1038/s41598-026-42994-y
   image: images/dtr_puppy_square.jpg
 - id: issn:00166731
