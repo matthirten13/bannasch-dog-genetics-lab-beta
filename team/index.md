@@ -16,14 +16,13 @@ Current members of the Danika Bannasch Genetics Laboratory.
 {% include list.html data="members" component="portrait" filter="name == 'Scarlett Varney'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Matthew Kramer'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Sebastian Moretti'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Julio Perez-Rosales'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Yeram Hong'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are not currently looking for additional team members, but please reach out if you want to collaborate on veterinary genetics research project.
 
 {% include section.html %}
 
