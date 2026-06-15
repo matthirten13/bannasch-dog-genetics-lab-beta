@@ -3,7 +3,7 @@
 
 # Danika Bannasch Genetics Lab
 
-A dog and horse genetics laboratory located at the Weill School of Veterinary Medicine, UC Davis. We study variants leading to disease and look at the impact of LINE-1 retrotransposons on cancer development.
+A dog and horse genetics laboratory located at the Weill School of Veterinary Medicine, University of Califoria, Davis. We study variants leading to disease and look at the impact of LINE-1 retrotransposons on cancer development.
 
 {% include section.html %}
 
