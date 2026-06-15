@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Current members of the Danika Bannasch Genetics Laboratory.
+Current members of the Danika Bannasch Genetics Laboratory. We are a friendly and collaborative group located within the Weill School of Veterinary Medicine, University of California, Davis.
 
 {% include section.html %}
 
