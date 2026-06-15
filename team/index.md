@@ -14,10 +14,6 @@ Current members of the Danika Bannasch Genetics Laboratory.
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'lab_manager'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Scarlett Varney'" %}
-
-
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filter="name == 'Matthew Kramer'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Sebastian Moretti'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Yeram Hong'" %}
