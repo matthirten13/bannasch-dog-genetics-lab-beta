@@ -26,7 +26,7 @@ The Danika Bannasch Genetics Laboratory is internationally recognized in veterin
 
 {%
   include feature.html
-  image="images/bannasch_paper_wall.jpg"
+  image="images/dtr_puppy.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ The Danika Bannasch Genetics Laboratory is internationally recognized in veterin
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is located at the Weill School of Veterinary Medicine, University of California, Davis.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bannasch_paper_wall.jpg"
   link="team"
   title="Our Team"
   flip=true
