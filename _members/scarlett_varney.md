@@ -1,6 +1,6 @@
 ---
 name: Scarlett Varney
-image: images/photo.jpg
+image: images/sv_portrait.JPEG
 description: PhD Candidate
 role: phd
 links:
