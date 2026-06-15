@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-List of all papers from Dr. Danika Bannasch.
+List of all research.
 
 {% include section.html %}
 
