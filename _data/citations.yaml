@@ -411,6 +411,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: images/figures/dog_colour_figure.jpg
 - id: doi:10.3390/genes12030357
   title: 'Correction: Weich, K., et al. Pigment Intensity in Dogs Is Associated with
     a Copy Number Variant Upstream of KITLG. Genes 2020, 11, 75'
@@ -683,6 +684,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: images/figures/ivdd_genetics_figure.jpg
 - id: doi:10.1016/j.tig.2020.05.005
   title: Genetic Variants Affecting Skeletal Morphology in Domestic Dogs
   authors:
@@ -832,6 +834,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: images/figures/ivdd_tollers_figure.jpg
 - id: doi:10.3390/genes10060435
   title: Phenotypic Effects of FGF4 Retrogenes on Intervertebral Disc Disease in Dogs
   authors:
@@ -855,6 +858,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: images/figures/frenchie_figure.jpg
 - id: doi:10.1101/829192
   title: Quantitative translation of dog-to-human aging by conserved remodeling of
     epigenetic networks
@@ -1035,6 +1039,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: images/figures/screw_tail_figure.jpg
 - id: doi:10.1073/pnas.1709082114
   title: "<i>FGF4</i>\n                    retrogene on CFA12 is responsible for chondrodystrophy\
     \ and intervertebral disc disease in dogs"
@@ -1060,6 +1065,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
+  image: iamges/figures/fgf4_figure.jpg
 - id: doi:10.1111/vop.12488
   title: Genetic analysis of optic nerve head coloboma in the Nova Scotia Duck Tolling
     Retriever identifies discordance with the <i><scp>NHEJ</scp>1</i> intronic deletion
