@@ -1065,7 +1065,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
-  image: iamges/figures/fgf4_figure.jpg
+  image: images/figures/fgf4_figure.jpg
 - id: doi:10.1111/vop.12488
   title: Genetic analysis of optic nerve head coloboma in the Nova Scotia Duck Tolling
     Retriever identifies discordance with the <i><scp>NHEJ</scp>1</i> intronic deletion
