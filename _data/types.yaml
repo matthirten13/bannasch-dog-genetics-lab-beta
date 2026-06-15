@@ -26,8 +26,12 @@ star_student:
   icon: fa-solid fa-staff-snake
   description: Students training in Advanced Research (STAR Student)
 
-undergrad:
+undergrad_bioinformatics:
   icon: fa-solid fa-laptop-code
+  description: Undergraduate Student
+
+undergrad_wet_lab:
+  icon: fa-solid fa-vial
   description: Undergraduate Student
 
 programmer:
