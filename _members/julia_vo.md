@@ -1,7 +1,7 @@
 ---
 name: Julia Vo
 image: images/photo.jpg
-role: Lab Manager
+role: lab_manager
 group: alum
 links:
 ---
