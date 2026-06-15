@@ -7,6 +7,7 @@ links:
   link: https://integrativepath.vetmed.ucdavis.edu/people/scarlett-varney
   email: slvarney@ucdavis.edu
   linkedin: varneyscarlett
+  orcid: 0000-0001-9028-1114
 ---
 
 Tbd
