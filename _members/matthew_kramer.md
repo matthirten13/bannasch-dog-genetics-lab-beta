@@ -1,6 +1,6 @@
 ---
 name: Matthew Kramer
-image: images/photo.jpg
+image: images/mk_portrait.jpg
 description: PhD Student
 role: phd_matt
 links:
