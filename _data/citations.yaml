@@ -214,7 +214,7 @@
   danika-bannasch: true
   plugin: sources.py
   file: sources.yaml
-  image: images/figures/fl_retro_figure.png
+  image: images/figures/fl_retro_figure.jpg
 - id: doi:10.3390/genes13071223
   title: "SLC25A12 Missense Variant in Nova Scotia Duck Tolling Retrievers Affected\
     \ by Cerebellar Degeneration\u2014Myositis Complex (CDMC)"
