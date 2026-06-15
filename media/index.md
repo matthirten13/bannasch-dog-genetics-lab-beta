@@ -37,7 +37,7 @@ Dr. Danika Bannasch spoke about dog genetics with Dr. Michael Kent on The Vetros
 
 {% capture text %}
 
-Dr. Danika Bannasch spoke about chondrodystrophy on The Functional Breeding Podcast. _March 23, 2026_
+Dr. Danika Bannasch spoke about chondrodystrophy on The Functional Breeding Podcast. _March 03, 2024_
 
 {%
   include button.html
