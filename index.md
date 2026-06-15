@@ -11,7 +11,7 @@ A dog and horse genetics laboratory located at the Weill School of Veterinary Me
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Danika Bannasch Genetics Laboratory is internationally recognized in veterinary genetics and has been contributing to the field for many years.
 
 {%
   include button.html
