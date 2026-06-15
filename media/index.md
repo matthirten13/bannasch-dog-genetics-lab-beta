@@ -54,7 +54,7 @@ Dr. Danika Bannasch spoke about chondrodystrophy on The Functional Breeding Podc
   include feature.html
   image="images/chondrodystrophy_podcast.jpg"
   link="https://functionalbreeding.org/danika-bannasch-dvm-phd-chondrodystrophy/"
-  title="Chondrodysrophy"
+  title="Chondrodystrophy"
   flip = true
   text=text
 %}
