@@ -2646,3 +2646,24 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41598-026-42994-y
+  title: "A variant in RESF1 is associated with Addison\u2019s disease and multiple\
+    \ autoimmune syndrome in young Nova Scotia Duck Tolling Retrievers"
+  authors:
+  - Emily Brown
+  - Scarlett Varney
+  - Amy Young
+  - Zena Wolf
+  - Oded Foreman
+  - Claire M. Wade
+  - Angela Hughes
+  - Anita Oberbauer
+  - Noa Safra
+  - Kerstin Lindblad-Toh
+  - Shelley Burton
+  - Danika Bannasch
+  publisher: Scientific Reports
+  date: '2026-03-12'
+  link: https://doi.org/hbw47m
+  plugin: sources.py
+  file: sources.yaml
