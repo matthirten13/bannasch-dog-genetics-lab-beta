@@ -73,7 +73,7 @@ Dr. Danika Bannasch occasionally speaks or contributes to articles in the media
 
 {%
   include feature.html
-  image="images/dlb_vetrorespective.jpg"
+  image="images/dlb_vetrospective.jpg"
   link="media"
   title="Our Media"
   text=text
