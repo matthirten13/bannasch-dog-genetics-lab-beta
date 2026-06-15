@@ -14,11 +14,17 @@
 - id: doi:10.1186/s40575-021-00111-4
   image: images/figures/inbreed_effect_figure.jpg
 - id: doi:10.1038/s41559-021-01524-x
+  image: images/figures/dog_colour_figure.jpg
 - id: doi:10.3389/fvets.2020.00431
+  image: images/figures/ivdd_genetics_figure.jpg
 - id: doi:10.1177/0300985819868731
+  image: images/figures/ivdd_tollers_figure.jpg
 - id: doi:10.3390/genes10060435
+  image: images/figures/frenchie_figure.jpg
 - id: doi:10.1371/journal.pgen.1007850
+  image: images/figures/screw_tail_figure.jpg
 - id: doi:10.1073/pnas.1709082114
+  image: iamges/figures/fgf4_figure.jpg
 - id: issn:00166731
   remove: true
 - id: issn:14656914
