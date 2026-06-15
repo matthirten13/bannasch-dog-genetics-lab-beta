@@ -18,7 +18,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/splice_paper_figure.png
+  image: images/figures/splice_paper_figure.png
   description: A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal
     Dysostosis in a Litter of Mixed-Breed Dogs
 - id: doi:10.1101/2025.11.12.687631
@@ -212,8 +212,9 @@
   link: https://doi.org/hb43pj
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/figures/fl_retro_figure.png
 - id: doi:10.3390/genes13071223
   title: "SLC25A12 Missense Variant in Nova Scotia Duck Tolling Retrievers Affected\
     \ by Cerebellar Degeneration\u2014Myositis Complex (CDMC)"
@@ -254,8 +255,9 @@
   link: https://doi.org/hb43pm
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/figures/beagle.jpg
 - id: doi:10.2460/AJVR.22.07.0106
   title: A genome-wide association study to investigate genetic loci associated with
     primary glaucoma in American Cocker Spaniels
@@ -323,8 +325,8 @@
   link: https://doi.org/gnrtx2
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00439-021-02261-8
   title: Canine DVL2 variant contributes to brachycephalic phenotype and caudal vertebral
     anomalies
@@ -406,8 +408,8 @@
   link: https://doi.org/gmg8d9
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/genes12030357
   title: 'Correction: Weich, K., et al. Pigment Intensity in Dogs Is Associated with
     a Copy Number Variant Upstream of KITLG. Genes 2020, 11, 75'
@@ -678,8 +680,8 @@
   link: https://doi.org/g59bpv
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tig.2020.05.005
   title: Genetic Variants Affecting Skeletal Morphology in Domestic Dogs
   authors:
@@ -827,8 +829,8 @@
   link: https://doi.org/hb43p5
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/genes10060435
   title: Phenotypic Effects of FGF4 Retrogenes on Intervertebral Disc Disease in Dogs
   authors:
@@ -850,8 +852,8 @@
   link: https://doi.org/hb43p6
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/829192
   title: Quantitative translation of dog-to-human aging by conserved remodeling of
     epigenetic networks
@@ -1030,8 +1032,8 @@
   link: https://doi.org/ghfgwc
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1709082114
   title: "<i>FGF4</i>\n                    retrogene on CFA12 is responsible for chondrodystrophy\
     \ and intervertebral disc disease in dogs"
@@ -1055,8 +1057,8 @@
   link: https://doi.org/gchjb2
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/vop.12488
   title: Genetic analysis of optic nerve head coloboma in the Nova Scotia Duck Tolling
     Retriever identifies discordance with the <i><scp>NHEJ</scp>1</i> intronic deletion
