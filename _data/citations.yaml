@@ -2665,6 +2665,6 @@
   publisher: Scientific Reports
   date: '2026-03-12'
   link: https://doi.org/hbw47m
-  image: images/dtr_puppy.jpg
+  image: images/dtr_puppy_square.jpg
   plugin: sources.py
   file: sources.yaml
