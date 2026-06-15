@@ -22,7 +22,8 @@ List of all research involving Dr. Danika Bannasch. We study variants leading to
 {% include citation.html lookup="Pathologic Features of the Intervertebral Disc in Young Nova Scotia Duck Tolling Retrievers Confirms Chondrodystrophy Degenerative Phenotype Associated With Genotype" style="rich" %}
 {% include citation.html lookup="Phenotypic Effects of FGF4 Retrogenes on Intervertebral Disc Disease in Dogs" style="rich" %}
 {% include citation.html lookup="Whole genome variant association across 100 dogs identifies a frame shift mutation in DISHEVELLED 2 which contributes to Robinow-like syndrome in Bulldogs and related screw tail dog breeds" style="rich" %}
-{% include citation.html lookup="FGF4 retrogene on CFA12 is responsible for chondrodystrophy and intervertebral disc disease in dogs" style="rich" %}
+{% include citation.html lookup="<i>FGF4</i>\n                    retrogene on CFA12 is responsible for chondrodystrophy\
+    \ and intervertebral disc disease in dogs" style="rich" %}
 
 {% include section.html %}
 
