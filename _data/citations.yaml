@@ -1210,31 +1210,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/144022
-  title: "<i>FGF4</i>\n                  retrogene on CFA12 is responsible for chondrodystrophy\
-    \ and intervertebral disc disease in dogs"
-  authors:
-  - Emily A. Brown
-  - Peter J. Dickinson
-  - Tamer Mansour
-  - Beverly K. Sturges
-  - Miriam Aguilar
-  - Amy E. Young
-  - Courtney Korff
-  - Jenna Lind
-  - Cassandra L. Ettinger
-  - Samuel Varon
-  - Rachel Pollard
-  - C. Titus Brown
-  - Terje Raudsepp
-  - Danika L. Bannasch
-  publisher: openRxiv
-  date: '2017-05-30'
-  link: https://doi.org/gkvrqf
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.vetimm.2016.08.003
   title: Serum levels of innate immunity cytokines are elevated in dogs with metaphyseal
     osteopathy (hypertrophic osteodytrophy) during active disease and remission
