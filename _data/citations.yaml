@@ -487,32 +487,6 @@
   danika-bannasch: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.12.21.423812
-  title: Dog color patterns explained by modular promoters of ancient canid origin
-  authors:
-  - Danika L. Bannasch
-  - Christopher B. Kaelin
-  - Anna Letko
-  - Robert Loechel
-  - Petra Hug
-  - Vidhya Jagannathan
-  - Jan Henkel
-  - Petra Roosje
-  - "Marjo K. Hyt\xF6nen"
-  - Hannes Lohi
-  - Meharji Arumilli
-  - Katie M. Minor
-  - James R. Mickelson
-  - "Cord Dr\xF6gem\xFCller"
-  - Gregory S. Barsh
-  - Tosso Leeb
-  publisher: openRxiv
-  date: '2020-12-21'
-  link: https://doi.org/ghqqvs
-  orcid: 0000-0002-7614-7207
-  danika-bannasch: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3390/genes11091033
   title: A Missense Variant in ALDH5A1 Associated with Canine Succinic Semialdehyde
     Dehydrogenase Deficiency (SSADHD) in the Saluki Dog
