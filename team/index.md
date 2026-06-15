@@ -14,7 +14,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'lab_manager'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Scarlett Varney'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Matthew Kramer'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Sebastian Moretti'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
