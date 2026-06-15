@@ -2,7 +2,7 @@
 name: Matthew Kramer
 image: images/photo.jpg
 description: PhD Student
-role: phd
+role: phd_matt
 links:
   github: matthirten13
   email: mlkramer@ucdavis.edu
