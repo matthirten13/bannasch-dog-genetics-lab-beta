@@ -9,9 +9,10 @@
   image: images/figures/beagle.jpg
 - id: doi:10.1038/s41598-026-42994-y
   image: images/dtr_puppy_square.jpg
-- id:  doi:10.1101/gr.276828.122
+- id: doi:10.1101/gr.276828.122
   image: images/figures/fl_retro_figure.png
 - id: doi:10.1186/s40575-021-00111-4
+  image: images/figures/inbreed_effect_figure.jpg
 - id: doi:10.1038/s41559-021-01524-x
 - id: doi:10.3389/fvets.2020.00431
 - id: doi:10.1177/0300985819868731
