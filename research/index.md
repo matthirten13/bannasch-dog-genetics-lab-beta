@@ -12,7 +12,7 @@ List of all papers from Dr. Danika Bannasch.
 
 ## Highlighted
 
-{% include citation.html lookup="A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis in a Litter of Mixed-Breed Dogs" style="rich" %}
+{% include citation.html lookup="A variant in RESF1 is associated with Addison’s disease and multiple autoimmune syndrome in young Nova Scotia Duck Tolling Retrievers" style="rich" %}
 
 {% include section.html %}
 
