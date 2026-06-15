@@ -2,7 +2,6 @@
 name: Danika Bannasch
 image: images/db_portrait_cropped.jpg
 role: principal-investigator
-affiliation: School of Veterinary Medicine, University of California
 aliases:
   - D. Bannasch
   - DL Bannasch
