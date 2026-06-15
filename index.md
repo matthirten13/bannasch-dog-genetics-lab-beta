@@ -55,3 +55,26 @@ Our team is located at the Weill School of Veterinary Medicine, University of Ca
   flip=true
   text=text
 %}
+
+{% capture text %}
+
+Dr. Danika Bannasch occasionally speaks or contributes to articles in the media
+
+{%
+  include button.html
+  link="media"
+  text="See our media releases"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/dlb_vetrorespective.jpg"
+  link="media"
+  title="Our Media"
+  text=text
+%}
