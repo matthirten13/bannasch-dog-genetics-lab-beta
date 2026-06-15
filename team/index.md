@@ -22,7 +22,7 @@ Current members of the Danika Bannasch Genetics Laboratory.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are not currently looking for additional team members, but please reach out if you want to collaborate on veterinary genetics research project.
+We are not currently looking for additional team members, but please reach out if you want to collaborate on a veterinary genetics research project.
 
 {% include section.html %}
 
