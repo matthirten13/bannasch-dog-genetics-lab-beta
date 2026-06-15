@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-List of all research involving Dr. Danika Bannasch.
+List of all research involving Dr. Danika Bannasch. We study variants leading to disease in many species and look at the impactof LINE-1 retrotransposons on cancer development.
 
 {% include section.html %}
 
