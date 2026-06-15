@@ -27,7 +27,7 @@ star_student:
   description: Students training in Advanced Research (STAR Student)
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-laptop-code
   description: Undergraduate Student
 
 programmer:
