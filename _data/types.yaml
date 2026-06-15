@@ -10,6 +10,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+lab_manager:
+  icon: fa-solid fa-flask
+  description: Lab Manager
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
