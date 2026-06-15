@@ -14,9 +14,13 @@ lab_manager:
   icon: fa-solid fa-flask
   description: Lab Manager
 
-phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+phd_scarlett:
+  icon: fa-solid fa-eye-dropper
+  description: scarlett
+
+phd_matt:
+  icon: fa-solid fa-code
+  description: matt
 
 undergrad:
   icon: fa-solid fa-user-graduate
