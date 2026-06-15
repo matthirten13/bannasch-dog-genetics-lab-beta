@@ -1041,8 +1041,8 @@
   file: sources.yaml
   image: images/figures/screw_tail_figure.jpg
 - id: doi:10.1073/pnas.1709082114
-  title: "<i>FGF4</i>\n                    retrogene on CFA12 is responsible for chondrodystrophy\
-    \ and intervertebral disc disease in dogs"
+  title: FGF4 retrogene on CFA12 is responsible for chondrodystrophy and intervertebral
+    disc disease in dogs
   authors:
   - Emily A. Brown
   - Peter J. Dickinson
