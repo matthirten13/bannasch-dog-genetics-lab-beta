@@ -16,7 +16,7 @@ List of all research involving Dr. Danika Bannasch. We study variants leading to
 {% include citation.html lookup="Ancient segmentally duplicated LCORL retrocopies in equids" style="rich" %}
 {% include citation.html lookup="Recent, full-length gene retrocopies are common in canids" style="rich" %}
 {% include citation.html lookup="The Effects of FGF4 Retrogenes on Canine Morphology " style="rich" %}
-{% include citation.html lookup="The effect of inbreeding, body size and morphology on health in dog breeds " style="rich" %}
+{% include citation.html lookup="The effect of inbreeding, body size and morphology on health in dog breeds" style="rich" %}
 {% include citation.html lookup="Recent, full-length gene retrocopies are common in canids" style="rich" %}
 {% include citation.html lookup="Recent, full-length gene retrocopies are common in canids" style="rich" %}
 {% include citation.html lookup="Recent, full-length gene retrocopies are common in canids" style="rich" %}
