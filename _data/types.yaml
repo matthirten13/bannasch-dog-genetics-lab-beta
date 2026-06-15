@@ -22,6 +22,10 @@ phd_matt:
   icon: fa-solid fa-code
   description: matt
 
+star_student:
+  icon: fa-solid fa-staff-snake
+  description: Students training in Advanced Research (STAR Student)
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
