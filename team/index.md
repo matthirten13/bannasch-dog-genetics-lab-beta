@@ -29,7 +29,7 @@ We are not currently looking for additional team members, but please reach out i
 {% capture content %}
 
 {% include figure.html image="images/tollers/pint_bobble_square.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/pnas_cover.png" %}
 {% include figure.html image="images/tollers/ritz_head_square.jpg" %}
 
 {% endcapture %}
