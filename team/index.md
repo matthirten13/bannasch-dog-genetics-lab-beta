@@ -20,7 +20,7 @@ Current members of the Danika Bannasch Genetics Laboratory. We are a friendly an
 {% include list.html data="members" component="portrait" filter="name == 'Yeram Hong'" %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
 We are not currently looking for additional team members, but please reach out if you want to collaborate on a veterinary genetics research project.
 
