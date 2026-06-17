@@ -26,7 +26,7 @@ The Danika Bannasch Genetics Laboratory is internationally recognized in veterin
 
 {%
   include feature.html
-  image="images/dtr_puppy.jpg"
+  image="images/tollers/Ritz_head_3_cropped.jpg"
   link="research"
   title="Our Research"
   text=text
