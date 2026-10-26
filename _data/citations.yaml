@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/age.70197
+  title: 'The Animal Variant Classification Guidelines v2: An Update With New Criteria
+    and Improved Clarifications'
+  authors:
+  - Lore Desmet
+  - Carlotta Ferrari
+  - Marie Abitbol
+  - Heidi Anderson
+  - Danika Bannasch
+  - Hubert Bauer
+  - Jerold Bell
+  - "N\xFCket Bilgen"
+  - Lucie Chevallier
+  - Caroline Dufaure de Citres
+  - Jonas Donner
+  - Carrie J. Finno
+  - Guillermo Giovambattista
+  - Steven M. Harrison
+  - Jessica J. Hayward
+  - "Jens H\xE4ggstr\xF6m"
+  - Jason T. Huff
+  - Tosso Leeb
+  - Ingrid Ljungvall
+  - Maria Longeri
+  - Leslie A. Lyons
+  - Marcela Martinez
+  - Cathryn Mellersh
+  - Frank W. Nicholas
+  - "\xC5sa Ohlsson"
+  - Jessica L. Petersen
+  - Pascale Smets
+  - Maria G. Strillacci
+  - Imke Tammen
+  - Samantha Van Buren
+  - Frank G. van Steenbeek
+  - Bart J. G. Broeckx
+  publisher: Animal Genetics
+  date: '2026-09-04'
+  link: https://doi.org/hchtvw
+  orcid: 0000-0002-7614-7207
+  danika-bannasch: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes17080969
+  title: 'Genotypic Distribution of FGF4L2 in DTK-Registered Dachshunds in Germany:
+    A Pilot Study'
+  authors:
+  - Hanna Berls
+  - Jan Peter Bach
+  - Danika Bannasch
+  - Peter J. Dickinson
+  - Holger A. Volk
+  publisher: Genes
+  date: '2026-08-19'
+  link: https://doi.org/hcgk83
+  orcid: 0000-0002-7614-7207
+  danika-bannasch: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/genes17020131
   title: A Splice Acceptor Variant in DLL3 Is Associated with Spondylocostal Dysostosis
     in a Litter of Mixed-Breed Dogs
@@ -94,6 +153,70 @@
   publisher: Journal of Veterinary Internal Medicine
   date: '2024-01-01'
   link: https://doi.org/hb43pb
+  orcid: 0000-0002-7614-7207
+  danika-bannasch: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-024-52798-1
+  title: The DoGA consortium expression atlas of promoters and genes in 100 canine
+    tissues
+  authors:
+  - "Matthias H\xF6rtenhuber"
+  - "Marjo K. Hyt\xF6nen"
+  - Abdul Kadir Mukarram
+  - Meharji Arumilli
+  - "C\xE9sar L. Araujo"
+  - Ileana Quintero
+  - "Pernilla Syrj\xE4"
+  - Niina Airas
+  - Maria Kaukonen
+  - "Kaisa Ky\xF6stil\xE4"
+  - Julia Niskanen
+  - Tarja S. Jokinen
+  - Faezeh Mottaghitalab
+  - "I\u015F\u0131l Takan"
+  - Noora Salokorpi
+  - Amitha Raman
+  - Irene Stevens
+  - Antti Iivanainen
+  - Masahito Yoshihara
+  - Oleg Gusev
+  - Danika Bannasch
+  - Antti Sukura
+  - Jeffrey J. Schoenebeck
+  - Carsten Daub
+  - "C\xE9sar L. Araujo"
+  - Ileana B. Quintero
+  - Milla Salonen
+  - Riika Sarviaho
+  - Sruthi Hundi
+  - Jenni Puurunen
+  - Sini Sulkama
+  - Sini Karjalainen
+  - Henna Pekkarinen
+  - Ilona Kareinen
+  - Anna Knuuttila
+  - Hanna-Maaria Javela
+  - Laura Tuomisto
+  - Heli Nordgren
+  - Karoliina Hagner
+  - Tarja Jokinen
+  - Kaarel Krjutskov
+  - Auli Saarinen
+  - Rasha Fahad Aljelaify
+  - Fiona Ross
+  - Irene Stevens
+  - Jeffrey J. Schoenebeck
+  - "Heini Niinim\xE4ki"
+  - Marko Haapakoski
+  - Sini Ezer
+  - Shintaro Katayama
+  - Carsten O. Daub
+  - Juha Kere
+  - Hannes Lohi
+  publisher: Nature Communications
+  date: '2024-10-21'
+  link: https://doi.org/g8prmz
   orcid: 0000-0002-7614-7207
   danika-bannasch: true
   plugin: orcid.py
@@ -899,8 +1022,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1534/g3.118.200376
-  title: A Missense Mutation in the Vacuolar Protein Sorting 11 (<i>VPS11</i>) Gene
-    Is Associated with Neuroaxonal Dystrophy in Rottweiler Dogs
+  title: "A Missense Mutation in the Vacuolar Protein Sorting 11 (\n             \
+    \       <i>VPS11</i>\n                    ) Gene Is Associated with Neuroaxonal\
+    \ Dystrophy in Rottweiler Dogs"
   authors:
   - Katherine L Lucot
   - Peter J Dickinson
@@ -1478,8 +1602,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/bpa.12188
-  title: "Thiamine Deficiency\u2010Mediated Brain Mitochondrial Pathology in<scp>A</scp>laskan<scp>H</scp>uskies\
-    \ with Mutation in<scp><i>SLC19A3.1</i></scp>"
+  title: "Thiamine Deficiency\u2010Mediated Brain Mitochondrial Pathology in\n   \
+    \                 <scp>A</scp>\n                    laskan\n                 \
+    \   <scp>H</scp>\n                    uskies with Mutation in\n              \
+    \      <scp>\n                      <i>SLC19A3.1</i>\n                    </scp>"
   authors:
   - Karen Vernau
   - Eleonora Napoli
